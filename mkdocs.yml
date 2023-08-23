@@ -1,0 +1,64 @@
+site_name: Guía AJR - Introducción al Japonés
+theme:
+  name: material
+  logo: assets/logo.jpg
+  favicon: assets/logo.jpg
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: white
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: es
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.sections
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Inicio: index.md
+  - Guía de los primeros 30 días: 
+    - Primera Semana:
+      - Día 1: days/day1.md
+      - Día 2: days/day2.md
+      - Día 3: days/day3.md
+      - Día 4: days/day4.md
+      - Día 5: days/day5.md
+      - Día 6: days/day6.md
+      - Día 7: days/day7.md
+    - Segunda Semana:
+      - Día 8: days/day8.md
+      - Día 9: days/day9.md
+      - Día 10: days/day10.md
+      - Día 11: days/day11.md
+      - Día 12: days/day12.md
+      - Día 13: days/day13.md
+      - Día 14: days/day14.md
+    - Días 15 al 30: days/day15.md
+    - Días 31 en adelante: days/future.md
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/y8P7mpDTcB
