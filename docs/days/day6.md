@@ -118,7 +118,7 @@ Para vídeos tenemos la web de [Aniwatch](https://aniwatch.to/tv). Esta web tien
 
 Por ejemplo, yo voy a buscar "One Piece" y pondré el capítulo 1.
 
-Ahora buscaré mis subtítulos. Los subtítulos los deberías poder encontrar en [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F). Bajamos hasta encontrar "One Piece" (podéis hacer **ctrl+f** para buscar). Descargamos el primer capítulo, o algún pack de subtítulos, y descomprimimos en algún lugar de nuestro ordenador.
+Ahora buscaré mis subtítulos. Los subtítulos los deberías poder encontrar en [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F). Bajamos hasta encontrar "One Piece" (podéis hacer **ctrl+f** para buscar). Descargamos el primer capítulo, o algún pack de subtítulos, y descomprimimos en algún lugar de nuestro ordenador. En mi caso he bajado [este archivo](https://kitsunekko.net/subtitles/japanese/One_Piece/(Prime%20Video)%20%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9.S01%20(0001-0130).zip) que contiene un pack con los subtítulos de los primeros 130 capítulos.
 
 Una vez abierto el capítulo en cuestión, arrastramos a la ventana del reproductor de vídeo de la página web el archivo .srt de subtítulos del primer capítulo y vemos si es adecuado. Nos deberá de abrir otra pestaña, con todos los subtítulos cargados.
 
@@ -158,9 +158,6 @@ Intentad cada día leer por lo menos un capítulo de lectura y ver un capítulo 
 El método del **tutor de los subtítulos** ([El visto durante el día 2](day2.md)) lo podemos sustituir por este, ya no es necesario y realmente se trataba de un pequeño aliciente para acostumbrarnos a inmersar. 
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day7/">Pasar al día 7</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 7](day7.md){.md-button .md-button--primary}
+</div>

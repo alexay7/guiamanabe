@@ -45,9 +45,6 @@ Si no quieres tomar notas, tampoco es necesario, pero sí recomendable. Si no qu
 Después de tu sesión diaria de gramática, hemos acabado por hoy. Si tienes tiempo que matar, puedes hacer lo mismo que hicimos al final del segundo día (inmersar con un capítulo del anime que elegimos). Pero no te quemes, que el día 4 es el día de la verdad.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day4/">Pasar al día 4</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 4](day4.md){.md-button .md-button--primary}
+</div>

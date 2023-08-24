@@ -39,9 +39,6 @@ Cuando acabes, puedes dejar el drill por hoy.
 ???+ tip "¿Te gusta escribir? ¡Escribe todos los kanas siguiendo esta imagen! "
     ![Aprender kanas](image.png)
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day2/">Pasar al día 2</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 2](day2.md){.md-button .md-button--primary}
+</div>

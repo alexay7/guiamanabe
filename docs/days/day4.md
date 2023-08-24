@@ -136,9 +136,6 @@ Si tienes tiempo, estos días ponte metas de inmersión. Empieza con 30 minutos,
     Para que te hagas una idea, para sacarme el N1 me tiré de media 3 horas/día sólo de inmersión el primer año, los siguientes 6 meses unas 4 horas/día, y los últimos 9 meses unas 6 horas/día. Esta dedicación me permitió aprobar el examen, pero todo depende de la persona, de lo que quiera conseguir y de lo motivada que esté. Otras personas lo han conseguido de una manera más relajada y con bastantes menos horas (y al revés, también), así que depende totalmente del individuo.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day5/">Pasar al día 5</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 5](day5.md){.md-button .md-button--primary}
+</div>

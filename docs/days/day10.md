@@ -1,7 +1,4 @@
-# Rutina diaria. Ya te lo sabes.
-
-Como me están quedando sosos los días, vamos a poner un reto para hoy: Serías capaz de hacer look ups de unas 25 palabra en tu inmersión hoy? Ponte a leer algún capítulo y ve mirando las palabras que más se repiten. Céntrate en los verbos y algunos sustantivos. 
-Día 10
+# Día 10
 
 La rutina diaria sigue siendo la misma: Anki, Gramática, Inmersión.
 
@@ -18,9 +15,6 @@ Puedes probar suerte en las siguientes webs:
 Si no lo encuentras en ningún sitio, puedes crear tu propio archivo. Lo único que necesitas es que el anime tenga subs originalmente “grabados” en el archivo, y si lo has descargado de [Nyaa](https://nyaa.si/), todos lo tienen. Si no, añade el archivo de subs (tendrán que estar sincronizados). Sigue los pasos en esta web (hay un vídeo bastante explicativo):  
 [Condensed Audio | Anacreon DJT](https://anacreondjt.gitlab.io/docs/condensed_audio/)
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day11/">Pasar al día 11</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 11](day11.md){.md-button .md-button--primary}
+</div>

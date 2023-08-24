@@ -25,9 +25,6 @@ Después de eso, sólo falta tu dosis de inmersión diaria. Haz lo que suelas ha
     Cada pequeño detalle cuenta.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day6/">Pasar al día 6</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 6](day6.md){.md-button .md-button--primary}
+</div>

@@ -26,6 +26,8 @@ theme:
     - header.autohide
     - navigation.indexes
     - navigation.sections
+    - header.autohide
+    - announce.dismiss
 plugins:
   - search
 markdown_extensions:

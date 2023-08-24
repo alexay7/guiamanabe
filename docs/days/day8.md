@@ -70,9 +70,6 @@ Así que para resumir y cerrar el día, nuestra rutina sería:
 Si te apetece ver, ve. Si te apetece leer subs, lee. 1 día uno y 1 día otro sigue siendo una buena estrategia.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day9/">Pasar al día 9</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 9](day9.md){.md-button .md-button--primary}
+</div>

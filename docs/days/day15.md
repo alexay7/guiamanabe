@@ -42,9 +42,6 @@ De esta manerar me mantenía concentrado durante mi inmersión pero dejaba al ce
 De esta manera conseguía inmersar hasta 8-9h los fines de semana. Bastante crazy pero no imposible.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/future/">Pasar al día 31</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 31](future.md){.md-button .md-button--primary}
+</div>

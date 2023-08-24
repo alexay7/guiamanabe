@@ -13,9 +13,6 @@ Si tienes más tiempo, dale duro.
 
 Si naturalmente te está apeteciendo buscar palabras en el diccionario mediante yomichan, ¡hazlo! Pero recuerda que a veces por mucho que analicemos una frase, probablemente nos falte contexto, cultura y demás en nuestro cerebro para poder entenderla del todo. No te recomiendo diseccionar todo un capitulo para aprender palabras haciendo búsquedas con yomichan. 2-3 palabras cada minuto puede ser una buena regla para no interrumpir tanto la inmersión, pues al final se hace tedioso parar todo el rato.
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day10/">Pasar al día 10</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 10](day10.md){.md-button .md-button--primary}
+</div>

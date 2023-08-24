@@ -99,9 +99,6 @@ Así que un día de inmersión puede ser leer 1 o 2 capítulos de manga. Si tard
 Intenta dedicar siempre por lo menos 2 horas al japonés. Con el tiempo, el tiempo que dedicas a la gramática desaparecerá. Anki se irá minimizando y cada vez lo harás más rápido (una sesión mía es de 10-20 minutos). Más tiempo para leer, escuchar, y en definitiva, pasártelo bien inmersando, que es en lo que consiste el método.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day15/">Pasar al día 15</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 15](day15.md){.md-button .md-button--primary}
+</div>

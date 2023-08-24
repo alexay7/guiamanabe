@@ -9,9 +9,6 @@ Prueba rebajando el repaso de kanas a 5 minutos al día. Céntrate en las otras 
 ## Inmersión
 Sobre en qué medio inmersar, prueba haciendo 1 día de lectura de subtítulos y 1 día de escucha. Si la escucha se te atraganta, prueba con los animes que hayas visto anteriormente. Ve dejando de lado el método de ver 1 capítulo con subtítulos en inglés/español y luego rever en japonés porque estamos perdiendo un tiempo esencial, el cuál cada vez más debe ser orientado a ser 100% en japonés.
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day8/">Pasar al día 8</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 8](day8.md){.md-button .md-button--primary}
+</div>

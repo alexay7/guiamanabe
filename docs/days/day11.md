@@ -19,9 +19,6 @@ Como puedes observar, vida de adulto donde con una buena organización se puede 
 Por último y para cerrar este día, no es necesario seguir el orden de Anki, Gramática e Inmersión. Lo ponemos así porque Anki es lo más importante y bajo ningún pretexto deberías fallar ningún día. Siempre se puede sacar un rato, aunque sea solo hacer los repasos y no meter cartas nuevas.
 
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day12/">Pasar al día 12</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 12](day12.md){.md-button .md-button--primary}
+</div>

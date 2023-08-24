@@ -83,9 +83,6 @@ En resumen, hoy has acabado si has practicado los kanas y si has visto **por lo 
 Buena pregunta! Puedes usar [Jisho](https://www.jisho.org) para buscar el significado. Te la traducirá al inglés.  
 ***Post data**: si no encuentras la manera de transliterar una palabra no te preocupes, es posible que no la estés escuchando bien. No dediques más de 20-30 segundos a buscar una palabra si no la atinas.*
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;">
-  <a style="padding: 10px;
-    background-color: var(--md-primary-fg-color);
-    border-radius: 5px;
-    color: white;" href="/days/day3/">Pasar al día 3</a>
-  </div>
+<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
+  [Pasar al día 3](day3.md){.md-button .md-button--primary}
+</div>
