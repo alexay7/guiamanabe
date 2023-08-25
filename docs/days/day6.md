@@ -26,12 +26,17 @@ En primer lugar necesitaremos **Yomichan**. Yomichan es una extensión de nuestr
     En el tutorial utilizaremos Yomibaba ya que hace más fácil la instalación de diccionarios
 
     #### Firefox
-    1. Descarga el archivo [yomibaba-firefox-signed-22.11.3.4.xpi](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.4/yomibaba-firefox-signed-22.11.3.4.xpi)
+    ##### 1. Descarga la extensión
+    1. Descarga [este archivo](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.4/yomibaba-firefox-signed-22.11.3.4.xpi) con la extensión en formato firefox.
     2. Arrastra el archivo descargado a la ventana de tu navegador Firefox.
         O bien, haz doble clic en el archivo para que se instale automáticamente.
     
     #### Navegadores basados en Chromium (Google Chrome)
-    ##### Activa el modo desarrollador
+    ##### 1. Descarga la extensión
+    1. Descarga [este archivo](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.4/yomibaba-chrome.zip) con la extensión comprimida en zip
+    2. Descomprime el archivo donde veas bien, recuerda donde lo pones porque vas a necesitarlo más tarde.
+    
+    ##### 2. Activa el modo desarrollador
     1. Abre tu navegador.
     2. Dirígete a la ventana de [extensiones](chrome://extensions/).
 
@@ -41,7 +46,7 @@ En primer lugar necesitaremos **Yomichan**. Yomichan es una extensión de nuestr
 
     ![Modo desarrollador](image-7.png)
 
-    ##### Cargar la extensión
+    ##### 3. Instala la extensión
     1. Haz clic en el botón "Cargar descomprimida".
     
     ![Cargar](image-8.png)
