@@ -41,8 +41,13 @@
         {% if config.extra.alternate %}
         {% include "partials/alternate.html" %}
         {% endif %}
+
         <a href="https://discord.gg/y8P7mpDTcB" target="_blank" rel="noreferrer" class="md-header__button md-icon">
             {% set icon = config.theme.icon.search or "fontawesome/brands/discord" %}
+            {% include ".icons/" ~ icon ~ ".svg" %}
+        </a>
+        <a href="https://ko-fi.com/alexay7" target="_blank" rel="noreferrer" class="md-header__button md-icon">
+            {% set icon = config.theme.icon.search or "simple/kofi" %}
             {% include ".icons/" ~ icon ~ ".svg" %}
         </a>
         {% if "material/search" in config.plugins %}
