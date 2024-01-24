@@ -10,6 +10,10 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 
 - [JPDB](https://jpdb.io/) Base de datos con miles de obras en japonés donde puedes ver la frecuencia de las palabras y frases de ejemplo. Cuenta además con un SRS que se podría usar de forma alternativa a Anki.
 
+- [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) Página donde puedes descargar subtítulos en japonés de animes.
+
+- [コツ](https://kotu.io/tests/pitchaccent/minimalpairs) Página para practicar el pitch accent de las palabras.
+
 - [Guía de Tae Kim (Inglés)](http://www.guidetojapanese.org/learn/grammar) Famosa guía de gramática de japonés en inglés. Es muy completa y está bien explicada.
 
 - [Guía de Tae Kim (Español)](https://www.guidetojapanese.org/spanish/index.html) Traducción al español de la guía anterior.
@@ -17,8 +21,6 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 - [Gramática japonesa](https://nihongokyoshi-net.com/jlpt-grammars/) Página con todas las estructuras gramaticales del N5 al N1. Cuenta con ejemplos y explicaciones en japonés.
 
 - [Lista de gramática](https://docs.google.com/spreadsheets/d/13Y5mKuSCD6lbzUHEd41BOw6lXNSPtvQKQClZFKjsY84/edit#gid=0) Excel donde están recopiladas todas las estructuras gramaticales del N5 al N1, puedes marcar las que ya conoces y hacerte un roadmap.
-
-- [コツ](https://kotu.io/tests/pitchaccent/minimalpairs) Página para practicar el pitch accent de las palabras.
 
 - [Yoji-jukugo](https://yoji-jukugo.com/) Base de datos de 四字熟語. Explica de forma sencilla el significado de cada uno en japonés.
 
