@@ -39,30 +39,33 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-  - Guía de los primeros 30 días: 
-    - Primera Semana:
-      - Día 1: days/day1.md
-      - Día 2: days/day2.md
-      - Día 3: days/day3.md
-      - Día 4: days/day4.md
-      - Día 5: days/day5.md
-      - Día 6: days/day6.md
-      - Día 7: days/day7.md
-    - Segunda Semana:
-      - Día 8: days/day8.md
-      - Día 9: days/day9.md
-      - Día 10: days/day10.md
-      - Día 11: days/day11.md
-      - Día 12: days/day12.md
-      - Día 13: days/day13.md
-      - Día 14: days/day14.md
-    - Días 15 al 30: days/day15.md
-    - Días 31 en adelante: days/future.md
+  - Guía de los primeros 30 días:
+      - Primera Semana:
+          - Día 1: days/day1.md
+          - Día 2: days/day2.md
+          - Día 3: days/day3.md
+          - Día 4: days/day4.md
+          - Día 5: days/day5.md
+          - Día 6: days/day6.md
+          - Día 7: days/day7.md
+      - Segunda Semana:
+          - Día 8: days/day8.md
+          - Día 9: days/day9.md
+          - Día 10: days/day10.md
+          - Día 11: days/day11.md
+          - Día 12: days/day12.md
+          - Día 13: days/day13.md
+          - Día 14: days/day14.md
+      - Días 15 al 30: days/day15.md
+      - Días 31 en adelante: days/future.md
+  - Recursos:
+      - Recursos del japonés: recursos/japanese.md
+      - Recursos de Anki: recursos/anki.md
 extra_css:
   - stylesheets/extra.css
 extra:
   social:
-    - icon: fontawesome/brands/discord 
+    - icon: fontawesome/brands/discord
       link: https://discord.gg/y8P7mpDTcB
     - icon: simple/kofi
       link: https://ko-fi.com/alexay7

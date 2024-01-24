@@ -5,9 +5,8 @@ Estás en el sitio adecuado si quieres **aprender japonés**. Esta guía te serv
 
 ##Guía de los primeros 30 días
 !!! note "Preámbulo"
-    Versión editada de la guía presente en [TheMoeWay](https://learnjapanese.moe/routine/)
-    La cual, a su vez, está basada en una guía de UsagiSpoon. El mérito y el trabajo también es de ellos, y si quieres agradecérselo, no dudes en hacerlo.
-    
+Versión editada de la guía UsagiSpoon presente en [TheMoeWay](https://learnjapanese.moe/routine/). El mérito y el trabajo también es de ellos, y si quieres agradecérselo, no dudes en hacerlo.
+
 La guía se basa en la **guía de 30 días de TheMoeWay**, pero está editada por mí, después de sacarme el N1 en 2 años usando la metodología de aprender mediante la inmersión en contenido japonés. No es que no me fíe de lo que ponga en TheMoeWay, pero está redactado de una manera bastante cuestionable, y no comparto algunas cosas de la misma guía.
 
 <!-- ??? question "TO-DO"
@@ -17,21 +16,21 @@ La guía se basa en la **guía de 30 días de TheMoeWay**, pero está editada po
 
     Si no quieres saber nada de eso, no pasa nada, sigue hacia delante. -->
 
-Esta guía tiene una duración de 30 días. Pero tu estudio va a durar años. Tenlo en cuenta y piensa en lo que conlleva.   
+Esta guía tiene una duración de 30 días. Pero tu estudio va a durar años. Tenlo en cuenta y piensa en lo que conlleva.
 
-Se basa en pasos a seguir para conseguir empezar con buen pie. Lo que puedes esperar de la guía es:  
+Se basa en pasos a seguir para conseguir empezar con buen pie. Lo que puedes esperar de la guía es:
 
-* Un vocabulario de al menos **500 palabras**.
-* Comprensión de **frases básicas** que aparecen en anime, manga y demás.
-* Capacidad para leer **hiragana, katakana y algunos kanji comunes**.
-* Una buena **base para seguir aprendiendo** japonés por tu cuenta.
+- Un vocabulario de al menos **500 palabras**.
+- Comprensión de **frases básicas** que aparecen en anime, manga y demás.
+- Capacidad para leer **hiragana, katakana y algunos kanji comunes**.
+- Una buena **base para seguir aprendiendo** japonés por tu cuenta.
 
 Lo único que se espera de ti:
 
-* **Motivación** para aprender.
-* **Disciplina**.
-* Por lo menos **2 horas de tu tiempo libre** al día para el japonés. De dedicación plena, estando concentrado. No hay límite superior de horas. Cuanto más, mejor.
-* Un ordenador o un portátil. En móvil y tablets también se puede, pero vas a necesitar un ordenador al principio para configurar bastantes cosas.
+- **Motivación** para aprender.
+- **Disciplina**.
+- Por lo menos **2 horas de tu tiempo libre** al día para el japonés. De dedicación plena, estando concentrado. No hay límite superior de horas. Cuanto más, mejor.
+- Un ordenador o un portátil. En móvil y tablets también se puede, pero vas a necesitar un ordenador al principio para configurar bastantes cosas.
 
 Sin más preámbulo, al turrón.
 
