@@ -54,9 +54,9 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 
 ## Descargas varias
 
-- [Vídeos Nihongo no Mori N1](https://link.ajr.moe/upshavesion) Vídeos de gramática y vocabulario para estudiar los contenidos del N1.
+- [Vídeos Nihongo no Mori N1](https://link.manabe.es/upshavesion) Vídeos de gramática y vocabulario para estudiar los contenidos del N1.
 
-- [新完全 N1-N3](https://link.ajr.moe/monotoopnment) Libros para estudiar la gramática del N3 al N1
+- [新完全 N1-N3](https://link.manabe.es/monotoopnment) Libros para estudiar la gramática del N3 al N1
 
 - [Cure Dolly Textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit) Transcripción a documento de texto de los vídeos de Cure Dolly, una conocida youtuber que explicaba la gramática de forma sencilla.
 
