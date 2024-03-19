@@ -48,3 +48,37 @@ h2 {
   height: 2rem;
   width: 2rem;
 }
+
+.lobby-container {
+  display: flex;
+  gap: 1.5rem;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.lobby-button {
+  text-decoration: none;
+  background-color: var(--md-primary-fg-color);
+  color: white !important;
+  padding: 1rem 1.5rem;
+  font-size: x-large;
+  width: 100%;
+  text-align: center;
+  border-radius: 3px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+  transition: all 0.2s !important;
+}
+
+.lobby-button:hover {
+  background-color: var(--md-accent-fg-color);
+  /* Zoom */
+  transform: scale(1.05);
+}
+
+@media (min-width: 768px) {
+  .lobby-button {
+    width: 45%;
+  }
+}
