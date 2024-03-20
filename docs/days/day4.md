@@ -29,7 +29,8 @@ Después, **haz tu estudio diario de gramática**. Recuerda la rutina del día a
 Ahora vamos a configurar Anki. Pero con el objetivo de ahorrarme explicarte durante horas algo, mejor mira el siguiente vídeo
 
 ???+ tip "Anki: La regla #1 de Anki"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UDUITtA1jJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UDUITtA1jJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Instalación
 
@@ -141,7 +142,7 @@ Tú eliges cuánto anime consumir. Un par de capítulos está más que bien para
 Si tienes tiempo, estos días ponte metas de inmersión. Empieza con 30 minutos, después 60 minutos, después 2 horas… El límite te lo pones tú.
 
 !!! note "Nota personal del administrador de Manabe"
-A medio plazo deberías por lo menos inmersar dos horas al día. Si logras 1-2 horas de inmersión pasiva y 2 horas de inmersión activa progresarás a buen ritmo.  
+    A medio plazo deberías por lo menos inmersar dos horas al día. Si logras 1-2 horas de inmersión pasiva y 2 horas de inmersión activa progresarás a buen ritmo.  
  Para que te hagas una idea, para sacarme el N1 me tiré de media 3 horas/día sólo de inmersión el primer año, los siguientes 6 meses unas 4 horas/día, y los últimos 9 meses unas 6 horas/día. Esta dedicación me permitió aprobar el examen, pero todo depende de la persona, de lo que quiera conseguir y de lo motivada que esté. Otras personas lo han conseguido de una manera más relajada y con bastantes menos horas (y al revés, también), así que depende totalmente del individuo.
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">

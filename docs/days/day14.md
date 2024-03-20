@@ -43,7 +43,7 @@ No es spoiler porque el manga va de eso, de cómo se van “enamorando” jeje. 
 Para poder entrar en nuestro servidor, tendrás que pedirle una cuenta a @alexay7. Por privado mucho mejor. Una vez te la asigne, entrarás a la web: [YomiYasu](https://manga.manabe.es/login) y aquí tendrás que introducir tus credenciales. Una vez dentro, puedes cambiar la contraseña que te han asignado. A continuación, busca el manga que quieras leer o pincha los enlaces de antes.
 
 !!! tip "Cómo leer un manga"
-Creo que algunas cosas no hace falta explicarlas pero just in case, te lo comento si eres tan nuevo que no has leído un manga nunca. En japonés tienes dos maneras de leer las cosas y ambas son igual de típicas.  
+    Creo que algunas cosas no hace falta explicarlas pero just in case, te lo comento si eres tan nuevo que no has leído un manga nunca. En japonés tienes dos maneras de leer las cosas y ambas son igual de típicas.  
  La primera es de izquierda a derecha en horizontal. Como la manera occidental, vaya.  
  La segunda es, y ojo cuidado, de arriba a abajo y de derecha a izquierda. De hecho los libros van al revés. Si te acercas a una tienda de mangas vas a ver lo que te digo.  
  Es un poco jodido leer así pero te acostumbrarás rápido. Los mangas entran en la segunda categoría.
