@@ -8,7 +8,7 @@ Hola, si estás aquí seguro te llamó la atención aventurarte a aprender japon
 **Elegir en que contenido inmersar**. JPDB tiene datos sobre diferentes obras, un apartado bastante conveniente dentro de estas es “**known words**” o palabras conocidas, esto te va marcar que porcentaje de vocabulario conoces de la obra en cuestión, eso te permitirá ver rápidamente la dificultad que vas a encontrarte a la hora de leerla ya que a más porcentaje de conocidas, más fluida será tu inmersión.
 
 !!! note "Aviso importante"
-    Debido a diferentes factores como el algoritmo utilizado por JPDB o el hecho de que es un servicio online de código cerrado, sigue siendo preferible utilizar anki para el aprendizaje de vocabulario. Sin embargo, JPDB es una herramienta muy útil para el mineo de palabras y frases, por lo que si ya tienes un propósito claro, quieres expandir tu conocimiento o quieres informarte sobre más herramientas. Así que eres libre de leerlo, probarlo y decidir por ti mismo.
+    Debido a diferentes factores como el algoritmo utilizado por JPDB o el hecho de que es un servicio online de código cerrado, sigue siendo preferible utilizar anki para el aprendizaje de vocabulario. Sin embargo, JPDB es una herramienta muy útil para el mineo de palabras y frases, por lo que si ya tienes un propósito claro, quieres expandir tu conocimiento o quieres informarte sobre más herramientas puedes leer esta guía y decidir por ti mismo.
 
 ## JPDB Setup
 
@@ -166,7 +166,7 @@ Teniendo esto listo ya deberías ser capaz de leer usando la extensión, hay muc
 
 Si quieres minar usando yomichan, es más sencillo, solo revisa [este repositorio de github](https://github.com/kampffrosch94/jpdb-connect). Si tienes duda en la configuración, pregunta en el servidor de discord.
 
-Por ahora aquí termina esta pequeña guía sobre JPDB, como ya repetí hasta el cansancio, si necesitas más ayuda con esto, pregunta en el servidor. Les mando un saludo su amigo Armory. Quiero también agradecer a Xyaman por su apoyo en la creación de esta guía.
+Por ahora aquí termina esta pequeña guía sobre JPDB, como ya repetí hasta el cansancio, si necesitas más ayuda con esto, pregunta en el servidor. Les manda un saludo su amigo Armory. Quiero también agradecer a Xyaman su apoyo en la creación de esta guía.
 
 <sub><sup>Escrita por armoryfour</sup></sub>
 
