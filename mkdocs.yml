@@ -64,6 +64,8 @@ nav:
   - Recursos:
       - Recursos del japonés: recursos/japanese.md
       - Recursos de Anki: recursos/anki.md
+  - Otros:
+      - Guía de JPDB: otros/jpdb.md
 extra_css:
   - stylesheets/extra.css
 extra:
