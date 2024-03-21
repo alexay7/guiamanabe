@@ -40,7 +40,7 @@ En “**review session configuration**” pon lo que consideres. “**Review ses
 
 Primero debes empezar a añadir mazos, solo tendrás que darle a “ **built-in decks**” y buscar obras que te interesen. Yo te recomiendo añadir de 5 a 15 mazos basándote en 2 cosas: Las ganas que tengas de consumir esa obra y la cantidad de palabras que tiene. Te recomiendo añadir obras con muchas palabras para que abarque gran cantidad del vocabulario básico y común japonés. Yo añadiría novelas, ya sean light novels o visual novels ya que suelen tener mucho vocabulario.
 
-¿Cuántas palabras totales son suficientes? Yo diría que aproximadamente unas 20k estarían bien, no tienes por qué estudiarlas todas, pero así cubres una cantidad considerable, no te recomiendo hacer muchas más si te interesa minar porque JPDB tiene un límite de cartas. Cuando acabes de añadir palabras y quieras ir al mineo, puedes borrar todos esos mazos que pusiste, siguiendo los pasos de la sección de <a href="#TODO-DE-ARMORY">**borrar mazos**</a>.
+¿Cuántas palabras totales son suficientes? Yo diría que aproximadamente unas 20k estarían bien, no tienes por qué estudiarlas todas, pero así cubres una cantidad considerable, no te recomiendo hacer muchas más si te interesa minar porque JPDB tiene un límite de cartas. Cuando acabes de añadir palabras y quieras ir al mineo, puedes borrar todos esos mazos que pusiste, siguiendo los pasos de la sección de <a href="#borrar">**borrar mazos**</a>.
 
 Si tienes más dudas sobre como empezar en JPDB si eres principiante, pregunta en el servidor de discord, con gusto te ayudamos.
 
@@ -58,9 +58,7 @@ Cuando estás aquí, debajo del “Okay” podrás ver una línea, eso significa
 !!! note "Nota"
     Cuando tienes el modo de 2 botones en los ajutes de JPDB funciona igual: 1. Fail 3. Pass.
 
-## Palabras redundantes
-
-<a id="redundante"> </a>
+## Palabras redundantes <a id="redundante"> </a>
 
 Seguramente has visto algunas palabras etiquetadas como “redundantes”, estas palabras son simplemente palabras que significan lo mismo que otras, pero se escriben de forma diferente. Por ejemplo: 私, わたし y ワタシ.
 
@@ -92,6 +90,18 @@ Aquí hay 5 palabras diferentes: <span style="color: red;">私</span>, <span sty
 Y eso sería todo, en general funciona como un SRS normal pero las palabras son directamente sacadas de obras, haciendo tu inmersión más efectiva ya que las palabras que aprendes las vas a ver en tu inmersión.
 
 Pero eso no es todo, ya que aún puedes hacerlo más útil y esto que voy a mostrar es mi cosa favorita sobre JPDB y lo que me ha ayudado a mejorar bastante y principalmente a sentirme más cómodo leyendo, así que puedes dejarlo hasta ahí y usarlo como SRS o ir más allá. Yo te recomiendo seguir.
+
+## Borrar mazos <a id="borrar"> </a>
+
+Podrías pensar que borrar mazos en JPDB es simple, le das clic en borrar y listo, pero realmente es más que eso. JPDB te va a mostrar las palabras que tienes en mazos, si dejas de tener una palabra en un mazo, te la va a dejar de mostrar, por eso debes tener cuidado con que borras, pero claro, tampoco vas a querer tener demasiados mazos, entonces te traigo una solución para este problema.
+
+Lo que vas a hacer es crear un mazo para mazos borrados, sí, de esta forma vas a poder borrar mazos y guardar las palabras activas en este mazo de mazos borrados, de esta forma no se pierden tus cartas activas y aún así te deshaces de los mazos que no quieres. Este mazo solo va a guardar las palabras activas entonces el mazo no se va a llenar de palabras que no necesites.
+
+Para usar esto creas un mazo y cuando quieras borrar uno te va a avisar si tienes palabras activas, si ese es el caso, te va a dejar guardarlas en un mazo, ahí elijes el mazo de decks borrados que creaste.
+
+![Jpdb](jpdb/15.png){width="100%"}
+
+Mi mazo es el que se llama "_Novelas borradas_", solo presionas donde dice "_Add here and then delete_" y todo listo.
 
 ## Sentence Mining
 
