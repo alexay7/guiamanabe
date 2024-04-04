@@ -45,14 +45,14 @@ Para descargarlo haremos clic a [este enlace](https://mega.nz/file/2SJiWC4b#hL98
 Recordad: el objetivo de este mazo es que nos dé pistas y técnicas para identificar cómo se constituyen los kanji y qué significado tienen las formas que no paran de ser utilizadas.
 
 Para configurarlo vamos a seguir los siguientes pasos:  
-**Paso 1**: Le daremos al engranaje al lado del mazo. 
-**Paso 2**: Le daremos a **opciones**.  
-**Paso 3**: En el desplegable de la parte superior de la ventana seleccionaremos "Recognition RTK"
-**Paso 4**: Cambiaremos a 10 cartas nuevas por día.
-**Paso 5**: Cambiaremos los **learning steps** a 1m 5m 10m.
-**Paso 6**: Cambiaremos el orden de inserción a **Secuencial (más antiguas primero)**.
-**Paso 7**: Debajo de la sección de **Lapses**, cambiaremos **Relearning Steps a 10m**.
-**Paso 8**: Debajo de **Display Order**, cambiaremos **New/review order** a **Enseñar antes de las reviews**.
+**Paso 1**: Le daremos al engranaje al lado del mazo. <br>
+**Paso 2**: Le daremos a **opciones**.  <br>
+**Paso 3**: En el desplegable de la parte superior de la ventana seleccionaremos "Recognition RTK".<br>
+**Paso 4**: Cambiaremos a 10 cartas nuevas por día.<br>
+**Paso 5**: Cambiaremos los **learning steps** a 1m 5m 10m.<br>
+**Paso 6**: Cambiaremos el orden de inserción a **Secuencial (más antiguas primero)**.<br>
+**Paso 7**: Debajo de la sección de **Lapses**, cambiaremos **Relearning Steps a 10m**.<br>
+**Paso 8**: Debajo de **Display Order**, cambiaremos **New/review order** a **Enseñar antes de las reviews**.<br>
 **Paso 9**: Le daremos a guardar.
 
 Cuando cliquemos en **Estudiar**, las primeras cartas serán las de explicación de cómo estudiar y cómo usar el mazo. Una vez entendido recomiendo suspenderlas (puedes hacerlo en la pantalla de los mazos).
