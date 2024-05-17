@@ -16,9 +16,7 @@ En tu viaje (de sólo ida ya que jamás lo vas a dejar) vas a tener días donde 
 
 ## Repaso de kanas
 
-**En primer lugar**: [Practica los kanas](https://gohoneko.neocities.org/learn/kana): hasta que termines con la última tabla. Ya has repasado todas las tablas, a partir de ahora será repasarlas 10 minutos cada día hasta que no necesites repasar más.
-
-[Cronómetro de 10 minutos](https://www.online-stopwatch.com/timer/10minutes/)
+**En primer lugar**: [Practica los kanas](https://jlpt.manabe.es/kanas): hasta que termines con la última tabla. Ya has repasado todas las tablas, a partir de ahora será repasarlas 10 minutos cada día hasta que no necesites repasar más.
 
 ## Gramática
 
