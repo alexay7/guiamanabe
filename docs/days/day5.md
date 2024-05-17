@@ -1,9 +1,7 @@
 # Día 5
 
 ## Repaso de kanas
-Entra en [la página de siempre](https://gohoneko.neocities.org/learn/kana.html) y repasa los kanas durante 10 minutos.
-
-[Cronómetro de 10 minutos](https://www.online-stopwatch.com/timer/10minutes/)
+Entra en [la página de siempre](https://jlpt.manabe.es/kanas) y repasa los kanas durante 10 minutos.
 
 ## Anki
 Ahora haz tu Anki diario. Va a ser bastante difícil al principio. Pero los beneficios son enormes y es lo que debemos hacer para poder conseguir buenos resultados. Con el paso del tiempo se convertirá en rutina y no te costará nada. **Será como tomarte el café por la mañana** o como atarte los cordones antes de salir de casa, parte de tu día a día.
