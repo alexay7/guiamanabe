@@ -4,8 +4,7 @@
 
 ## Repaso de kanas
 
-Vas a usar esta web para practicar: [Repasa los kanas](https://gohoneko.neocities.org/learn/kana)  
-Vas a utilizar este temporizador: [Temporizador online](https://www.online-stopwatch.com/timer/10minutes/ )  
+Vas a usar esta web para practicar: [Repasa los kanas](https://jlpt.manabe.es/kanas)  
 
 Esta tabla es más sencilla porque son contracciones. Una vez nos las sepamos, paramos por hoy con los silabarios, o seguimos a por más si nos apetece. Da igual.
 
