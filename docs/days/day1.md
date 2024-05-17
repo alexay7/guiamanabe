@@ -16,7 +16,8 @@ No necesitas saber más, así que pasamos a la práctica.
 ## Conociendo los silabarios
 Vamos a aprender los silabarios por fuerza bruta, ya que es la mejor técnica. Hay gente que en 2 horas ya los medio domina, mientras que a otros les toma más tiempo. No es problema porque te vas a hartar a verlos.
 
-Vas a usar esta web para practicar: [Repasa los kanas](https://jlpt.manabe.es/kanas)
+Vas a usar esta web para practicar: [Repasa los kanas](https://jlpt.manabe.es/kanas).
+
 Pondrás el temporizador a 10 minutos.
 
 La web te permitirá **practicar escribiendo los sonidos**. Vas a empezar sólo con las vocales, hasta que pasen x minutos y te las medio sepas. Luego vas a añadir la siguiente columna, la del ka incluyendo las sílabas, hasta que te la medio sepas. Luego la columna del sa, hasta que te la medio sepas. Así hasta acabar con todas las columnas. Ignora la parte que habla de distintas fuentes.
