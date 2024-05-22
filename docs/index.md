@@ -5,7 +5,7 @@ Estás en el sitio adecuado si quieres **aprender japonés**. Esta guía te serv
 
 ##Guía de los primeros 30 días
 !!! note "Preámbulo"
-Versión editada de la guía UsagiSpoon presente en [TheMoeWay](https://learnjapanese.moe/routine/). El mérito y el trabajo también es de ellos, y si quieres agradecérselo, no dudes en hacerlo.
+    Versión editada de la guía UsagiSpoon presente en [TheMoeWay](https://learnjapanese.moe/routine/). El mérito y el trabajo también es de ellos, y si quieres agradecérselo, no dudes en hacerlo.
 
 La guía se basa en la **guía de 30 días de TheMoeWay**, pero está editada por mí, después de sacarme el N1 en 2 años usando la metodología de aprender mediante la inmersión en contenido japonés. No es que no me fíe de lo que ponga en TheMoeWay, pero está redactado de una manera bastante cuestionable, y no comparto algunas cosas de la misma guía.
 
