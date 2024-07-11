@@ -1,6 +1,6 @@
 # Día 10
 
-La rutina diaria sigue siendo la misma: Anki, Gramática, Inmersión.
+La rutina diaria sigue siendo la misma: Anki, Gramática e Inmersión.
 
 A estas alturas puede que te hayas acabado tu anime elegido. Puede ser buena idea descargar el audio condensado de este y llenar los huecos de silencio en tu día a día con audio en japonés. 
 
