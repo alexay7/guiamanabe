@@ -11,7 +11,7 @@ El día de hoy va a consistir en:
 - Configurar un teclado japonés en tu ordenador
 - Hacer tu inmersión diaria.
 
-**Vas a necesitar bastante tiempo** así que procura tener, por lo menos, digamos 2 horas para poder acabar de poner todo en orden.
+**Vas a necesitar bastante tiempo para dejarlo todo listo** así que procura tener, por lo menos, unas 2 horas.
 En tu viaje (de sólo ida ya que jamás lo vas a dejar) vas a tener días donde te vas a dedicar a poner cosas a punto, pero vale la pena créeme. No sé por qué pero la mayoría de personas que quieren aprender japonés resulta que son todos ingenieros informáticos, con lo cual han hecho miles y miles de **recursos para que el aprendizaje sea MUY cómodo**. Es el idioma que más recursos tiene para aprender.
 
 ## Repaso de kanas
@@ -34,7 +34,7 @@ Ahora vamos a configurar Anki. Pero con el objetivo de ahorrarme explicarte dura
 ![Descargar Anki](image-1.png){width="500" align=right}
 Procedemos a descargar Anki. Puedes descargar Anki visitando el [sitio web oficial](https://apps.ankiweb.net/) y haciendo clic en el botón Descargar. Debería dirigirte a la sección de descargas. Haz clic en la primera opción.
 
-Vamos a necesitar **un mazo de cartas** (digitales), el enlace es el siguiente: [Google Drive](https://drive.google.com/u/0/uc?id=1A4pwUf22heVIKah_RlHBMsZLOojKBtik&export=download)
+Vamos a necesitar **un mazo de cartas** (digitales), desde Manabe os proveemos directamente un mazo del N5 que recomendamos para empezar, el enlace es el siguiente: [Google Drive](https://drive.google.com/u/0/uc?id=1A4pwUf22heVIKah_RlHBMsZLOojKBtik&export=download)
 
 Este mazo consiste en **1000 palabras que necesitas saber para aprobar el N5**. Pero es que además se presentan en un orden bastante peculiar, en el cual solo usa palabras que ya has visto antes para enseñarte nuevas. Con lo cual siempre te enseña sólo una palabra nueva en cada carta (hay un par de excepciones pero no pasa nada).
 
@@ -58,8 +58,8 @@ Ahora verás la baraja y un número azul al lado. **El número azul es la cantid
 Vamos a trastear con las opciones del mazo.  
 En primer lugar, 20 cartas considero que es la cantidad normal que deberías hacer. Si con el paso del tiempo ves que son demasiadas, podrás bajarlo a 15, o incluso a 10 si te parece. Pero por ahora **dejémoslo en 20**.
 
-Vamos a hacer click en el **icono del engranaje junto al mazo de Tango**, tienes que poner el ratón encima para que aparezca. Después le daremos a **opciones**. En la parte de límite diario, debe de aparecer 20, lo dejamos así (si sale 30, cambiadlo a 20).  
-En **Repasos máximos/día**, vamos a poner **9999**. Esto no significa ni de lejos que vayas a repasar tantas, pero el valor por defecto puede quedarse corto en el futuro, así que mejor dejarlo en **9999**. No queremos interferir con el algoritmo de Anki, así que si algo te sale para estudiar hoy, que lo tengas que estudiar hoy.
+Vamos a hacer click en el **icono del engranaje junto al mazo de Tango**, tienes que poner el ratón encima para que aparezca. Después le daremos a **opciones**. En la parte de límite diario, debe de aparecer **20**, lo dejamos así (si sale 30, cambiadlo a 20).  
+En **Repasos máximos/día**, vamos a poner **9999**. Esto no significa ni de lejos que vayas a repasar tantas, pero el valor por defecto puede quedarse corto en el futuro, así que mejor dejarlo en 9999. No queremos interferir con el algoritmo de Anki, así que si algo te sale para estudiar hoy, que lo tengas que estudiar hoy.
 
 ![Configuración Anki](image-3.png){width="500" align=right}
 
@@ -67,7 +67,16 @@ En **pasos en la etapa de aprendizaje** vamos a dejar **1m 10m**. Luego definire
 
 En **umbral para sanguijuelas** con que pongamos **5** está OK. Además debe estar elegido **suspender tarjeta** en el apartado de **acción para sanguijuelas**.
 
-En la sección Orden de visualización, cambia el orden Nuevos/revisiones a Mostrar antes de las tarjetas para revisar. Ahora haremos clic en Guardar.
+En la sección **Orden de visualización**, cambia el orden Nuevos/revisiones a Mostrar antes de las tarjetas para revisar. Ahora haremos clic en Guardar.
+
+### Acerca del algoritmo FSRS de Anki
+
+Si has instalado la versión más nueva de Anki (que es lo que deberías haber hecho), podrás ver que en la parte de abajo de los ajustes del deck hay una pestaña dedicada a estas misteriosas siglas.
+
+Pese a que es algo relativamente nuevo, está expandida la idea de que este algoritmo es mejor y más avanzado que el que viene por defecto por lo que recomendamos activarlo, para ello simplemente tienes que activar el switch que pone "FSRS" y darle a guardar. Si tienes curiosidad por el resto de campos en esta categoría y quieres ponerlos a tu gusto puedes visitar esta [guía en inglés](https://github.com/open-spaced-repetition/fsrs4anki/blob/main/docs/tutorial.md).
+
+!!! danger Qué NO hacer si activas el FSRS
+    Al empezar Anki puede ser que tengas un hábito muy común, este es, darle al botón de Hard cuando has fallado una carta pero "casi te acuerdas", esto no se debe hacer porque despistas al algoritmo. Hard solo debe pulsarse si has acertado la carta pero con esfuerzo, si no, siempre pulsa Again.
 
 ### Comenzar el estudio
 
@@ -76,7 +85,7 @@ En cuanto a cómo empezar a estudiar el mazo, es muy fácil. Haremos **click en 
 Lo que veremos a continuación es la primera carta. La primera carta es bastante sencillita, y es la siguiente frase:  
 `私はアンです。`  
 Bien, aquí vamos a empezar a utilizar algo de conocimiento que hemos adquirido. El hiragana y katakana que ya hemos adquirido de los ejercicios va a hacernos falta. Luego el です del final seguramente también lo hayas visto en tu estudio de gramática, junto la は que también debería sonarte.  
-Entonces lo único que nos queda de aquí que no conocemos es **私「わたし」**, pues esta es la palabra que estamos aprendiendo en esta carta. <u>Yo</u> soy Ann.
+Entonces lo único que nos queda de aquí que no conocemos es <ruby>私<rt>わたし</rt><ruby>Pues esta es la palabra que estamos aprendiendo en esta carta. <u>Yo</u> soy Ann.
 
 Si le damos a **descubrir** en la carta, veremos que nos sale la frase con hiragana encima (encima del 私 debe aparecer わたし, a esto se le llama **furigana** y sirve para ver las lecturas de los kanjis). Justo a continuación pondrá la traducción en español, y finalmente, la palabra que hiragana y su traducción. Cuando descubramos la carta además escucharemos un sonido, que es el de un nativo leyendo la frase.
 
@@ -139,8 +148,8 @@ Tú eliges cuánto anime consumir. Un par de capítulos está más que bien para
 Si tienes tiempo, estos días ponte metas de inmersión. Empieza con 30 minutos, después 60 minutos, después 2 horas… El límite te lo pones tú.
 
 !!! note "Nota personal del administrador de Manabe"
-A medio plazo deberías por lo menos inmersar dos horas al día. Si logras 1-2 horas de inmersión pasiva y 2 horas de inmersión activa progresarás a buen ritmo.  
- Para que te hagas una idea, para sacarme el N1 me tiré de media 3 horas/día sólo de inmersión el primer año, los siguientes 6 meses unas 4 horas/día, y los últimos 9 meses unas 6 horas/día. Esta dedicación me permitió aprobar el examen, pero todo depende de la persona, de lo que quiera conseguir y de lo motivada que esté. Otras personas lo han conseguido de una manera más relajada y con bastantes menos horas (y al revés, también), así que depende totalmente del individuo.
+    A medio plazo deberías por lo menos inmersar dos horas al día. Si logras 1-2 horas de inmersión pasiva y 2 horas de inmersión activa progresarás a buen ritmo.  
+    Para que te hagas una idea, para sacarme el N1 me tiré de media 3 horas/día sólo de inmersión el primer año, los siguientes 6 meses unas 4 horas/día, y los últimos 9 meses unas 6 horas/día. Esta dedicación me permitió aprobar el examen, pero todo depende de la persona, de lo que quiera conseguir y de lo motivada que esté. Otras personas lo han conseguido de una manera más relajada y con bastantes menos horas (y al revés, también), así que depende totalmente del individuo.
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
   [Pasar al día 5](day5.md){.md-button .md-button--primary}

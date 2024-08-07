@@ -6,17 +6,17 @@ A estas alturas debes de tener clara tu metodología diaria, así que vamos a a�
 ## Los kanjis
 Los kanjis son dibujitos, rayajos, runas, provenientes del chino hace bastantes cientos de años. Saber kanjis en japonés nos puede ayudar a aprender chino luego, pero **los kanjis NO SON LOS MISMOS que los HANZIS** (kanji en chino) actuales. Ambos idiomas han ido evolucionando y cambiando. Lo cual tiene sus ventajas y sus desventajas.
 
-En japonés tenemos varios tipos de kanji. Algunos son bastante gráficos: sol - 日, río - 川, montaña - 山, los primeros 3 números - 一　二　三, árbol - 木... 
+En japonés tenemos varios tipos de kanji. Algunos son bastante gráficos: sol - <ruby>日<rt>ひ</rt></ruby>, río - <ruby>川<rt>かわ</rt></ruby>, montaña - <ruby>山<rt>やま</rt></ruby>, los primeros 3 números - <ruby>一<rt>いち</rt></ruby>　<ruby>二<rt>に</rt></ruby>　<ruby>三<rt>さん</rt></ruby>, árbol - <ruby>木<rt>き</rt></ruby>... 
 Pero este tipo de kanji no es el que más abunda lamentablemente. Aproximadamente solo un 12,4% de la totalidad de kanjis son así. 
 
 El siguiente tipo de kanji, que ya es un sólido 25% aproximadamente (24,6%, realmente), son los denominados “combinaciones de kanjis”. 
-Por ejemplo, si tenemos montaña y roca, 山 + 石, si los combinamos sale 岩, que viene a ser roca de la montaña (o peñascos, rocas grandes, etc.)
+Por ejemplo, si tenemos montaña y roca, 山 + 石, si los combinamos sale <ruby>岩<rt>いわ</rt></ruby>, que viene a ser roca de la montaña (o peñascos, rocas grandes, etc.)
 
 Bien, sólo queda una categoría más de kanjis y si sabes sumar y restar porcentajes te has dado cuenta de que cerca de un 63% son de este último tipo.
 Estos kanjis que quedan, son los denominados “caracteres fonéticos-semánticos”, es decir, kanjis que se componen de una parte semántica y una parte fonética. Como puedes observar, si además hace tiempo que no estudias lengua en la escuela, puede que ni siquiera te suenen estos términos.  
 Esto significa que una parte del kanji nos da un significado (bastante vago o impreciso), y la otra parte del kanji nos da pistas sobre la pronunciación. Podría poner una cantidad importante de ejemplos pero para lo que queremos aprender tampoco hace falta.
 
-Vamos a ver el kanji de cobre: 銅.  
+Vamos a ver el kanji de cobre: <ruby>銅<rt>どう</rt></ruby>.  
 Este kanji está formado por: metal - 金 y por “lo mismo” - 同. Como podemos observar, no tiene mucho sentido que “lo mismo que el metal” sea cobre (o igual sí si tenéis algo de imaginación), pero la realidad es que NO tienen nada que ver a la hora de la formación del kanji.
 
 Aquí lo que nos dice el kanji es que tiene algo que ver con el metal, es decir, 金, pero la pista sobre la lectura nos la está dando 同, que se lee どう (dou). Con lo cual, este kanji se lee どう. 
@@ -24,14 +24,14 @@ Aquí lo que nos dice el kanji es que tiene algo que ver con el metal, es decir,
 Estos últimos kanjis, al ser tantos, significa que 2 de cada 3 que te vas a encontrar son así. Saber esto de antemano es muy bueno porque seguramente todos los kanjis que te encuentres que tengan 同 en su parte derecha, se van a leer como どう. Va a llegar un momento en el que sabrás tantos kanjis, que vas a poder leer palabras nuevas que no habías visto en tu vida, y después de mirar el significado dos o tres veces, sin usar anki, vas a aprenderte estas palabras automáticamente.
 
 Otros ejemplos rápidos de formación de kanjis, sin meternos en los significados son los siguientes:  
-萌 = 艹+日+月
-踏 = 足+水+日
-足 = 口+龰
-将 = 丬+爫+寸
+<ruby>萌<rt>もえ</rt></ruby> = 艹+日+月
+<ruby>踏</ruby> = 足+水+日
+<ruby>足<rt>あし</rt></ruby> = 口+龰
+<ruby>将<rt>しょう</rt></ruby> = 丬+爫+寸
 
 Bien, una vez leída esta introducción viene el mazazo. En japonés, existen unos **6000 kanjis**. Un japonés normal, al salir de bachillerato (18 años), conoce todas las palabras formadas por entre 2500 y 3000 kanjis.
 
-Al ser una locura la cantidad de kanjis, Japón en su momento estableció que de “uso diario y normal”, los jouyou kanji, o 常用漢字, existen unos 2250. En un periódico, en la tele, no vas a encontrar apenas caracteres fuera de los jouyou kanji. En libros sí, pero van a tener furigana encima para que sepas leerlos, y los componentes te darán una pista sobre su significado. 
+Al ser una locura la cantidad de kanjis, Japón en su momento estableció que de “uso diario y normal”, los jouyou kanji, o <ruby>常用漢字<rt>じょうようかんじ</rt></ruby>, existen unos 2250. En un periódico, en la tele, no vas a encontrar apenas caracteres fuera de los jouyou kanji. En libros sí, pero van a tener furigana encima para que sepas leerlos, y los componentes te darán una pista sobre su significado. 
 
 Para tener una buena base y entender cómo funcionan los kanjis, existen varios mazos para tal cometido. Originalmente yo me aprendí un mazo de los 2250 kanji de uso diario. De los cuales, lo que estudié en las cartas, me acuerdo de un 25% :). Donde realmente cimentamos estos conocimientos de kanjis es leyendo luego, es decir, inmersando.
 

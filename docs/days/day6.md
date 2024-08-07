@@ -18,7 +18,7 @@ Esta primera fase debería haberse convertido ya en rutina. Tu día a día con e
 Vamos a empezar a hacer la inmersión más divertida.  
 Tu primer contenido de lectura será anime con subtítulos en japonés. Es un poco complicado de configurar, pero vamos a ello.
 
-### Yomichan/Yomibaba
+### Yomitan
 ![Popup de yomichan](image-4.png){width="400" align=right}
 En primer lugar necesitaremos **Yomichan**. Yomichan es una extensión de nuestro navegador que nos permitirá acceder a la definición de un palabra en japonés pulsando shift y poniendo el ratón encima de esta, nos sacará un desplegable con la entrada del diccionario y el significado de la palabra. Útil y bastante personalizable, además de necesario para nuestro futuro una vez terminemos el mazo del Tango. 🙂
 

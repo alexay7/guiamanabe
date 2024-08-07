@@ -6,6 +6,12 @@ La dopamina por conseguir el objetivo es muy agradable, pero vamos a ponernos m�
 
 Pero recuerda, lo importante es la inmersión y que te lo pases bien mientras estudias. Esta es la única manera de progresar.
 
+## Todo esto está muy bien pero yo quiero aprobar el Noken, ¿qué pasos sigo?
+
+De igual forma que mucha gente quiere aprender el idioma como hobby, también hay muchos casos donde se quiere aspirar a un trabajo en Japón, quiere visitarlo teniendo conocimiento del idioma o simplemente quiere certificar su nivel. 
+
+Si eres de este tipo de gente el proceso para aprender el idioma es el mismo, debes hacer anki todos los días e inmersar durante mucho tiempo mientras estudias gramática de vez en cuando, pero como tienes el objetivo concreto de pasar un examen, puedes consultar la categoría de Noken en esta misma página para tener indicaciones de como proceder.
+
 ## Objetivos
 
 - Terminar todo el volumen 1 del manga que hayas elegido.

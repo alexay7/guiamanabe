@@ -12,7 +12,7 @@ Para hacer un poco más amena esta guía, vamos a repasar qué estamos consiguie
 
 Mediante Anki, los vídeos de Gramática o la guía escrita, y mirando palabras mientras inmersando, estamos **trabajando en nuestro CONOCIMIENTO**. El conocimiento es muy importante, pero mucha gente que va a clases de japonés piensan que con conocimiento basta. Error, ya sabes por qué.
 
-Mediante la escucha activa y la lectura activa de subtítulos, estamos **aplicando nuestro conocimiento en la práctica**. Estamos poniendo en práctica lo que sabemos (vagamente mediante Anki y vídeos), y el cerebro se está encontrando constantemente palabras y estructuras que le suenan, y nosotros cimentamos ese conocimiento como práctica y el cerebro empieza a hacer el japonés que aprendemos como algo nuestro. Como el español que ya sabes vaya. Vas a escuchar o leer いい天気だね y no vas a ni pensar en qué significa, lo entiendes. ¿Cuando alguien dice coche estás viendo las letras en tu cabeza o es que realmente ves un coche en tu subconsciente? Pues eso.
+Mediante la escucha activa y la lectura activa de subtítulos, estamos **aplicando nuestro conocimiento en la práctica**. Estamos poniendo en práctica lo que sabemos (vagamente mediante Anki y vídeos), y el cerebro se está encontrando constantemente palabras y estructuras que le suenan, y nosotros cimentamos ese conocimiento como práctica y el cerebro empieza a hacer el japonés que aprendemos como algo nuestro. Como el español que ya sabes vaya. Vas a escuchar o leer いい<ruby>天気<rt>てんき</rt></ruby>だね y no vas a ni pensar en qué significa, lo entiendes. ¿Cuando alguien dice coche estás viendo las letras en tu cabeza o es que realmente ves un coche en tu subconsciente? Pues eso.
 
 Mediante el tutor de subtítulos estamos mejorando nuestra comprensión, dándole contexto a lo que luego nos vemos sin subtítulos y solo escuchando.
 
@@ -30,21 +30,21 @@ Por último pero no menos importante, el passive listening o el método de la es
 
 Dicho esto, vamos a hacer más divertidas las cosas. No sé si te has dado cuenta, pero no hemos hablado casi de mangas estos días. ¿Por qué? Muy fácil, porque pensaba incluirlo en el día 14. Vamos a, por fin, añadir un medio más de inmersión, y para algunas personas, el que usaron para conseguir su N1.
 
-Como ya tienes configurado yomichan, no necesitas hacer gran cosa. En nuestro servidor tenemos montada una gran biblioteca de mangas. No te quiero asustar, pero hay más de 1 millón de páginas de manga. Eso significa que hay más de 6000 volúmenes de manga. Y cada día añadimos más. Si te lees un volumen al día, tardarás unos 14 años. Lógicamente no se espera de ti que te leas todo, pero seguro que encuentras algo que te molará.
+Como ya tienes configurado yomichan, no necesitas hacer gran cosa. En nuestro servidor tenemos montada una gran biblioteca de mangas. No te quiero asustar, pero hay más de 1 millón de páginas de manga. Eso significa que hay más de 6000 volúmenes de manga. Y cada día añadimos más. Si te lees un volumen al día, tardarás unos 14 años. Lógicamente no se espera de ti que te leas todo, pero seguro que encuentras algo que te molará. Tenemos una serie de requisitos para restringir el acceso a este servidor solo a personas verdaderamente interesadas en el aprendizaje del japonés, para conocer estos requisitos puedes consultar los pines del canal de #お知らせ en nuestro discord.
 
 En este caso no te voy a hacer mirar todo el catálogo, he elegido por ti. El manga es からかい上手の 元 高木さん.
 
 A estas alturas espero que puedas leer el título o al menos parte de él. 🙂 Viene a ser un manga que realmente es un spinoff de otro (からかい上手の 高木さん), donde la pareja de protagonistas acaban juntos y tienen una hija.  
 No es spoiler porque el manga va de eso, de cómo se van “enamorando” jeje. Este es seguramente, junto otros mangas, de los más sencillos que existen para alguien que no ha leído nunca nada. Son bastante gráficos y mediante las imágenes vas a entenderlos perfectamente. Otros ejemplos de mangas sencillos serían よつばと!, que también va de cosas livianas y del día a día de Yotsuba, la protagonista, pero abusa bastante de un lenguaje muy coloquial e infantil, y puede que Yomichan no te detecte algunas palabras. Si quiere optar por algo adulto y un poco edgy, tienes ハピネス. Este manga tiene solo 3500 caracteres por volumen con lo cual no hay tanto diálogo, es bastante explícito y lógicamente trata temas que se escapan un poco del día a día, pero es facilito. Elijas lo que elijas, da igual. Lo importante es empezar a leer. Te dejo los tres enlaces de anilist para que puedas leer las sinopsis y elegir por ti mismo:
-[ハピネス](https://anilist.co/manga/86136/)
-[よつばと！](https://anilist.co/manga/30104/)
+[ハピネス](https://anilist.co/manga/86136/) |
+[よつばと！](https://anilist.co/manga/30104/) | 
 [からかい上手の（元）高木さん](https://anilist.co/manga/99549/)
 
 !!! tip "Cómo leer un manga"
-Creo que algunas cosas no hace falta explicarlas pero just in case, te lo comento si eres tan nuevo que no has leído un manga nunca. En japonés tienes dos maneras de leer las cosas y ambas son igual de típicas.  
- La primera es de izquierda a derecha en horizontal. Como la manera occidental, vaya.  
- La segunda es, y ojo cuidado, de arriba a abajo y de derecha a izquierda. De hecho los libros van al revés. Si te acercas a una tienda de mangas vas a ver lo que te digo.  
- Es un poco jodido leer así pero te acostumbrarás rápido. Los mangas entran en la segunda categoría.
+    Creo que algunas cosas no hace falta explicarlas pero just in case, te lo comento si eres tan nuevo que no has leído un manga nunca. En japonés tienes dos maneras de leer las cosas y ambas son igual de típicas.  
+    La primera es de izquierda a derecha en horizontal. Como la manera occidental, vaya.  
+    La segunda es, y ojo cuidado, de arriba a abajo y de derecha a izquierda. De hecho los libros van al revés. Si te acercas a una tienda de mangas vas a ver lo que te digo.  
+    Es un poco jodido leer así pero te acostumbrarás rápido. Los mangas entran en la segunda categoría.
 
     Sabiendo esto, ya está. No hay mucho más que explicar. Es un cómic que se lee de una manera especial.
 

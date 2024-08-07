@@ -18,13 +18,13 @@ Vamos a aprender los silabarios por fuerza bruta, ya que es la mejor técnica. H
 
 Vas a usar esta web para practicar: [Repasa los kanas](https://jlpt.manabe.es/kanas).
 
-Pondrás el temporizador a 10 minutos.
+Pondrás el temporizador a 10 minutos (el temporizador es el cuadrado verde que hay en la mitad de la página, el número que introduzcas será interpretado como la cantidad de minutos que quieras estudiar y comenzará cuando pulses el botón verde de abajo)
 
 La web te permitirá **practicar escribiendo los sonidos**. Vas a empezar sólo con las vocales, hasta que pasen x minutos y te las medio sepas. Luego vas a añadir la siguiente columna, la del ka incluyendo las sílabas, hasta que te la medio sepas. Luego la columna del sa, hasta que te la medio sepas. Así hasta acabar con todas las columnas. Ignora la parte que habla de distintas fuentes.
 
-Después de 10 minutos **tómate un pequeño descanso** de otros 10 minutos. Investiga un poco sobre los sonidos, o simplemente distráete.
+Después de 10 minutos **tómate un pequeño descanso** de otros 10 minutos. Investiga un poco sobre los sonidos, o simplemente distráete con otra cosa.
 
-Vas a estar con intervalos de diez minutos hasta que acabes con toda la tabla del hiragana (son 4 tablas en total, 1 por separado con la fuente al final). 
+Vas a estar con intervalos de diez minutos hasta que acabes con toda la tabla del hiragana (esto incluye las cuatro categorías dentro de la pestaña de Hiragana). 
 
 Cuando acabes, puedes dejar el drill por hoy.
 

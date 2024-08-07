@@ -61,6 +61,9 @@ nav:
           - Día 14: days/day14.md
       - Días 15 al 30: days/day15.md
       - Días 31 en adelante: days/future.md
+  - Tips para el Noken:
+      - Introducción: noken/intro.md
+      - Preguntas: noken/exam.md
   - Recursos:
       - Recursos del japonés: recursos/japanese.md
       - Recursos de Anki: recursos/anki.md
