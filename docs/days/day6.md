@@ -33,11 +33,14 @@ En primer lugar necesitaremos **Yomitan**. Yomitan es una extensión de nuestro 
 
     #### Instalar diccionarios
     Antes de empezar tienes que pensar que diccionarios quieres instalar. Aquí tienes una lista de diccionarios que recomendamos, descarga los que te llamen la atención:
-    - [JMdict Español](https://github.com/MarvNC/jmdict-yomitan/releases/latest/download/JMdict_spanish.zip)
-    - [JMdict Inglés](https://github.com/themoeway/jmdict-yomitan/releases/latest/download/JMdict_english.zip)
-    - [Diccionario de frecuencia](https://drive.google.com/file/d/13dbte_pabqDKvL5ASkc0xAec1ryVaVa5/view?usp=sharing)
-    - [Diccionario de pitch accent](https://drive.google.com/file/d/13k9ULY7lQ5t-WQBTiYeGSlTfGtQojCRq/view?usp=sharing)
-    - [Nivel JLPT](https://github.com/stephenmk/yomichan-jlpt-vocab/releases/tag/rev.JLPT%3B2022-01-30)
+
+      - [JMdict Español](https://github.com/MarvNC/jmdict-yomitan/releases/latest/download/JMdict_spanish.zip)
+      - [JMdict Inglés](https://github.com/themoeway/jmdict-yomitan/releases/latest/download/JMdict_english.zip)
+      - [Diccionario de frecuencia](https://drive.google.com/file/d/13dbte_pabqDKvL5ASkc0xAec1ryVaVa5/view?usp=sharing)
+      - [Diccionario de pitch accent](https://drive.google.com/file/d/13k9ULY7lQ5t-WQBTiYeGSlTfGtQojCRq/view?usp=sharing)
+      - [Nivel JLPT](https://github.com/stephenmk/yomichan-jlpt-vocab/releases/tag/rev.JLPT%3B2022-01-30)
+
+    Ahora el como instalarlos:
 
     1. Accede a los ajustes de la extensión, puedes acceder a ellos en la parte superior derecha del navegador. Al salir el menú, haz click en el icono del engranaje abajo a la izquierda.
     ![Extensiones](image-6.png)
