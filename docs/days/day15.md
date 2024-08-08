@@ -16,7 +16,7 @@ Tú decides qué tipo de inmersión vas a usar. ¿Por qué te pusiste a estudiar
 
 Desde un enfoque puramente técnico, deberías encontrar equilibrio entre audio y lectura. Lo bueno es que ambos te ayudan a mejorar el otro.
 
-En mi experiencia, me centré bastante en la lectura al principio. Conseguí aprender y controlar una cantidad de vocabulario interesante, y luego llevé ese conocimiento a la escucha. Bajo mi punto de vista, ésta es una manera óptima de aprender porque de normal cuando sólo escuchamos, no tenemos mucha habilidad para hacer lookups de diccionario, mientras que cuando leemos podemos usar Yomichan cuanto queramos.  
+En mi experiencia, me centré bastante en la lectura al principio. Conseguí aprender y controlar una cantidad de vocabulario interesante, y luego llevé ese conocimiento a la escucha. Bajo mi punto de vista, ésta es una manera óptima de aprender porque de normal cuando sólo escuchamos, no tenemos mucha habilidad para hacer lookups de diccionario, mientras que cuando leemos podemos usar Yomitan cuanto queramos.  
 Pero esto es totalmente personal, y si te gusta más la escucha, adelante y céntrate en la escucha.
 
 Ten por seguro que si descuidas un apartado vas a descolgarte y vas a entrar en un bucle de autodestrucción de por ejemplo, “como no entiendo el audio, me centro en la lectura”, y vas a ir agrandando ese abismo de conocimiento y habilidad. En el momento que notes que vas mal en algún apartado, céntrate un poco más en él, que será por tu bien.

@@ -19,71 +19,50 @@ Vamos a empezar a hacer la inmersión más divertida.
 Tu primer contenido de lectura será anime con subtítulos en japonés. Es un poco complicado de configurar, pero vamos a ello.
 
 ### Yomitan
-![Popup de yomichan](image-4.png){width="400" align=right}
-En primer lugar necesitaremos **Yomichan**. Yomichan es una extensión de nuestro navegador que nos permitirá acceder a la definición de un palabra en japonés pulsando shift y poniendo el ratón encima de esta, nos sacará un desplegable con la entrada del diccionario y el significado de la palabra. Útil y bastante personalizable, además de necesario para nuestro futuro una vez terminemos el mazo del Tango. 🙂
+![Popup de Yomitan](image-4.png){width="400" align=right}
+En primer lugar necesitaremos **Yomitan**. Yomitan es una extensión de nuestro navegador que nos permitirá acceder a la definición de un palabra en japonés pulsando shift y poniendo el ratón encima de esta, nos sacará un desplegable con la entrada del diccionario y el significado de la palabra. Útil y bastante personalizable, además de necesario para nuestro futuro una vez terminemos el mazo del Tango. 🙂
 
-???+ note "Instalación de Yomibaba"
-    En el tutorial utilizaremos Yomibaba ya que hace más fácil la instalación de diccionarios
-
+???+ note "Instalación de Yomitan"
     #### Firefox
     ##### 1. Descarga la extensión
-    1. Descarga [este archivo](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.4/yomibaba-firefox-signed-22.11.3.4.xpi) con la extensión en formato firefox.
-    2. Arrastra el archivo descargado a la ventana de tu navegador Firefox.
-        O bien, haz doble clic en el archivo para que se instale automáticamente.
+    1. Entra en [este página](https://addons.mozilla.org/en-US/firefox/addon/yomitan/) e instala la extensión como lo harías con cualquier otra.
     
     #### Navegadores basados en Chromium (Google Chrome)
     ##### 1. Descarga la extensión
-    1. Descarga [este archivo](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.4/yomibaba-chrome.zip) con la extensión comprimida en zip
-    2. Descomprime el archivo donde veas bien, recuerda donde lo pones porque vas a necesitarlo más tarde.
-    
-    ##### 2. Activa el modo desarrollador
-    1. Abre tu navegador.
-    2. Dirígete a la ventana de [extensiones](chrome://extensions/).
-
-    ![Extensiones](image-6.png)
-
-    3. Activa el "modo desarrollador en la parte superior derecha de la página.
-
-    ![Modo desarrollador](image-7.png)
-
-    ##### 3. Instala la extensión
-    1. Haz clic en el botón "Cargar descomprimida".
-    
-    ![Cargar](image-8.png)
-
-    2. Selecciona la carpeta que descomprimiste anteriormente.
-
-    ![folder](image-9.png)
+    1. Entra en [esta página](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) e instala la extensión como lo harías con cualquier otra.
 
     #### Instalar diccionarios
-    1. Descarga [este archivo](https://cdn.discordapp.com/attachments/654363913470738462/1136627255561424906/yomibaba-dictionaries-2023-08-03-11-45-20.7z) con los diccionarios de Yomibaba y descomprímelo.
-    2. Abre la configuración de Yomibaba.
+    Antes de empezar tienes que pensar que diccionarios quieres instalar. Aquí tienes una lista de diccionarios que recomendamos, descarga los que te llamen la atención:
+    - [JMdict Español](https://github.com/MarvNC/jmdict-yomitan/releases/latest/download/JMdict_spanish.zip)
+    - [JMdict Inglés](https://github.com/themoeway/jmdict-yomitan/releases/latest/download/JMdict_english.zip)
+    - [Diccionario de frecuencia](https://drive.google.com/file/d/13dbte_pabqDKvL5ASkc0xAec1ryVaVa5/view?usp=sharing)
+    - [Diccionario de pitch accent](https://drive.google.com/file/d/13k9ULY7lQ5t-WQBTiYeGSlTfGtQojCRq/view?usp=sharing)
+    - [Nivel JLPT](https://github.com/stephenmk/yomichan-jlpt-vocab/releases/tag/rev.JLPT%3B2022-01-30)
 
-    ![Config](image-10.png)
+    1. Accede a los ajustes de la extensión, puedes acceder a ellos en la parte superior derecha del navegador. Al salir el menú, haz click en el icono del engranaje abajo a la izquierda.
+    ![Extensiones](image-6.png)
+    ![Ajustes Yomitan](image-7.png)
 
-    ##### Importar datos de diccionarios
-    1. Dirígete a la sección "Backup" en la configuración de Yomibaba.
+    2. Una vez en la página de ajustes de Yomitan, entra en la sección de *Dictionaries* en la barra lateral de la izquierda.
+    ![Página ajustes Yomitan](image-8.png)
 
-    ![Backup](image-11.png)
+    3. En esta sección, da click sobre el botón que dice "Configure installed and enabled dictionaries..."
+    ![Menú diccionarios](image-9.png)
 
-    2. Selecciona "Import Dictionary Collection".
-    3. Busca y selecciona el archivo yomibaba-dictionaries-2023-08-03-11-45-20.json que descomprimiste previamente.
+    4. En el popup que se ha abierto, haz click sobre el botón de import y selecciona los .zip de los diccionarios que has descargado y quieras instalar.
+    ![Menú diccionarios abierto](image-10.png)
 
-    ![Unzip](image-12.png)
+    5. Espera pacientemente a que se importen, hazte unas reps de anki o algo en este rato.
 
-    #### Configuración
-    1. Descarga [este archivo](https://cdn.discordapp.com/attachments/654363913470738462/1136627255871807538/yomibaba-settings-2023-08-03-11-45-14.json) con la configuración de Yomibaba.
-    2. En la misma sección "Backup", haz clic en "Import Settings".
-    3. Selecciona el archivo yomibaba-settings-2023-08-03-11-45-14.json que descargaste.
+    6. Ahora debería salirte una vista previa a la derecha de como se va a ver Yomitan con los diccionarios que has instalado
+    ![Vista previa dicts](image-11.png)
 
-    ![Unzip2](image-13.png)
+    ¡Listo! Ahora tienes Yomitan configurado con tus diccionarios.
 
-    ¡Listo! Ahora tienes Yomibaba configurado con tus diccionarios y ajustes.
-
-???+ tip "Cambiar la fuente de Yomibaba"
+???+ tip "Cambiar la fuente de Yomitan"
     #### Cambiar la fuente
-    Si deseas cambiar la fuente en Yomibaba, sigue estos pasos:
-    1. Abre la sección "Configure custom CSS..." dentro de la configuración de Yomibaba.
+    Si deseas cambiar la fuente en Yomitan, sigue estos pasos:
+    1. Abre la sección "Configure custom CSS..." dentro de la configuración de Yomitan.
 
     ![CSS](image-14.png)
 
@@ -109,14 +88,14 @@ En primer lugar necesitaremos **Yomichan**. Yomichan es una extensión de nuestr
     ![Fuentes](image-15.png)
 
 ### ASBPlayer
-Una vez instalado Yomichan o Yomibaba, utilizaremos ASBPlayer para poder incrustar subtítulos a nuestros vídeos. Además lo bueno de ASBPlayer es que puedes usar vídeos online, lo cual es la hostia.
+Una vez instalado Yomitan, utilizaremos ASBPlayer para poder incrustar subtítulos a nuestros vídeos. Además lo bueno de ASBPlayer es que puedes usar vídeos online, lo cual es la hostia.
 
 Bien, para instalarlo hacemos click [aquí](https://github.com/killergerbah/asbplayer/releases)  
 Una vez ahí, veréis un enlace donde podremos descargar la versión actual, es el enlace que está subrayado en azul. Para ver el enlace hay que bajar un poco a la sección de **Installation**.
 
 Una vez descargado, lo descromprimiremos en una carpeta de nuestro PC. Recordad donde lo ponéis, yo lo he descomprimido en una carpeta que se llama ASBPlayer en mi unidad C.
 
-Ahora iremos a **chrome://extensions** o **edge://extensions** (según el navegador que queráis usar) y activaremos el modo para desarrolladores (mismo proceso que con Yomibaba). Una vez hecho eso, le daremos a **cargar desempaquetado** y ahí elegiremos la carpeta en la que descomprimimos el archivo descargado anteriormente (La mía es ASBPlayer). Una vez hecho eso, reiniciamos nuestro navegador y voilà. Ya tenemos el reproductor listo.
+Ahora iremos a **chrome://extensions** o **edge://extensions** (según el navegador que queráis usar) y activaremos el modo para desarrolladores (mismo proceso que con Yomitan). Una vez hecho eso, le daremos a **cargar desempaquetado** y ahí elegiremos la carpeta en la que descomprimimos el archivo descargado anteriormente (La mía es ASBPlayer). Una vez hecho eso, reiniciamos nuestro navegador y voilà. Ya tenemos el reproductor listo.
 
 Ahora sólo necesitamos dos cosas. Un vídeo que ver y unos subtítulos.  
 Para vídeos tenemos la web de [Aniwatch](https://aniwatch.to/tv). Esta web tiene todo lo que vayas a necesitar, pero puede que valga también alguna otra que conozcas. Yo uso esta porque permite quitar los subtítulos en inglés que vienen con el vídeo, y dejarlo sin subtítulos (los cuales añadiremos nosotros con ASBPlayer). 
@@ -138,7 +117,7 @@ Vamos a hacer lo siguiente: cubriendo la mitad pantalla pondremos el capítulo d
 Así estaría perfecto.  
 Seguramente para todos los capítulos de Aniwatch necesitaremos ajustar a -15 los subtítulos, lo cual no es problema una vez le cogemos el truco. Nadie dijo estudiar japonés fuera fácil 😉.
 
-Una vez sincronizados, podemos usar Yomibaba y leer todas las palabras que van apareciendo en los subtítulos dentro de la misma ventana del vídeo. No necesitamos la otra ventana para nada, de hecho la podemos cerrar.
+Una vez sincronizados, podemos usar Yomitan y leer todas las palabras que van apareciendo en los subtítulos dentro de la misma ventana del vídeo. No necesitamos la otra ventana para nada, de hecho la podemos cerrar.
 
 ### ¿Cómo se "lee" un anime?
 Bien, ahora que estamos listos, ¿cuál sería la manera de proceder con este tipo de inmersión?  
@@ -146,7 +125,7 @@ Vale, aquí os puedo decir dos maneras de hacerlo.
 
 - La primera es ver el anime con **los subtítulos en la pantalla**, intentando seguir con los ojos TODO lo que se está diciendo. Lógicamente aparecerán un montón de kanjis de los cuales no conoceréis su lectura, pero vais a ver un montón de hiragana y un montón de katakana, con lo cual os permitirá asociar sonidos de palabras con el silabario.
 
-- Podéis, además, utilizar Yomibaba para ver el significado de alguna palabra que os haya llamado la atención. ¿Sois capaces de entender alguna frase? ¿Sois capaces de medio entender alguna frase sencillita si pausáis el vídeo y comprobáis el significado de alguna palabra?
+- Podéis, además, utilizar Yomitan para ver el significado de alguna palabra que os haya llamado la atención. ¿Sois capaces de entender alguna frase? ¿Sois capaces de medio entender alguna frase sencillita si pausáis el vídeo y comprobáis el significado de alguna palabra?
 
 Pero no os recomiendo mirar más de 20-30 palabras durante todo el anime, tenemos que ver más cosas para poder seguir exponiéndonos al japonés.
 

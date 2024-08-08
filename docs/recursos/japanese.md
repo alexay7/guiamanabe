@@ -30,7 +30,7 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 
 - [Subtitle Hider](https://xcaocao.github.io/SubtitleHider/) Herramienta que te permite ocultar los subtítulos para practicar la escucha en caso de que estén forzados en el vídeo.
 
-- [Mokuro](https://github.com/kha-white/mokuro) Herramienta del CLI para hacer OCR a mangas y poder leerlo en el navegador con yomichan.
+- [Mokuro](https://github.com/kha-white/mokuro) Herramienta del CLI para hacer OCR a mangas y poder leerlo en el navegador con Yomitan.
 
 - [TVer](https://tver.jp/) Página legal para ver la televisión japonesa en directo, solo accesible desde Japón.
 
@@ -40,7 +40,7 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 
 - [Sushi-DA](https://sushida.net/play.html) Juego de velocidad de escritura.
 
-## Diccionarios para Yomichan
+## Diccionarios para Yomitan
 
 - [Jmdict Inglés](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_english.zip) Es el diccionario que recomendamos, es el más completo y está actualizado.
 
