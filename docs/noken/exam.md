@@ -12,7 +12,7 @@ Esta página estará divida según las secciones del examen, dentro de cada secc
 
 **Traducción:** Elige la lectura apropiada para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
 
-**Explicación:** Es un ejercicio fácil de entender, te van a poner una frase y una de las palabras de esta frase va a aparecer subrayadada tal que así:
+**Explicación:** Es un ejercicio fácil de entender, te van a poner una frase y una de las palabras de esta frase va a aparecer subrayada tal que así:
 
 ![Ejercicio kanjis](image.png)
 
@@ -80,7 +80,7 @@ No es un ejercicio muy complicado si inmersas a menudo ya que simplemente tienes
 <summary>¿Cuál será la respuesta?</summary>
 La respuesta correcta es la 1, きれい.
 
-Sabiendo que la frase quiere decir "ayer limpié mi habitación, por lo que quedó _____", podemos descarta la 3 y la 4 ya que limpiar la habitación no afecta a que le entre más o menos luz (en situaciones normales, tampoco te comas la cabeza con el caso en el que las ventanas estaban llenas de roña por lo tanto ahora entra más luz). Ahora tenemos la 2, que significa sucio; y la 1, que significa limpio/bonito; por lo que la respuesta correcta es la 1.
+Sabiendo que la frase quiere decir "ayer limpié mi habitación, por lo que quedó _____", podemos descartar la 3 y la 4 ya que limpiar la habitación no afecta a que le entre más o menos luz (en situaciones normales, tampoco te comas la cabeza con el caso en el que las ventanas estaban llenas de roña por lo tanto ahora entra más luz). Ahora tenemos la 2, que significa sucio; y la 1, que significa limpio/bonito; por lo que la respuesta correcta es la 1.
 </details> 
 
 ### Parafraseo
@@ -98,7 +98,7 @@ N5/N4
 
 N3/N2/N1
 
-![Ejercicio parafraseo dificil](image-4.png)
+![Ejercicio parafraseo difícil](image-4.png)
 
 <details>
 <summary>¿Cuál será la respuesta?</summary>
@@ -143,11 +143,11 @@ Finalmente la cuarta opción habla de lo amarga que es una medicina.
 
 **Traducción:** Elige la forma gramatical correcta para el hueco en blanco de la frase entre las opciones 1, 2, 3 y 4.
 
-**Explicación:** Un ejercicio también sencillo de entender, te dan una frase con un hueco y tienes que poner la forma gramátical que mejor encaje en el hueco. En el caso del N5 está especialmente orientado a las particulas así que estudiatelas bien!
+**Explicación:** Un ejercicio también sencillo de entender, te dan una frase con un hueco y tienes que poner la forma gramatical que mejor encaje en el hueco. En el caso del N5 está especialmente orientado a las partículas así que estúdiatelas bien!
 
 ![Ejercicio gramática 1](image-7.png)
 
-Estos ejercicios solo hay dos formas de resolverlos correctamente, o te has empollado la gramática bien y te sabes todas las reglas gramáticales, o has inmersado muchísimo y te suena raro si algo no encaja.
+Estos ejercicios solo hay dos formas de resolverlos correctamente, o te has empollado la gramática bien y te sabes todas las reglas gramaticales, o has inmersado muchísimo y te suena raro si algo no encaja.
 
 <details>
 <summary>¿Cuál será la respuesta?</summary>
@@ -173,7 +173,7 @@ y como la pregunta dice "_____ es el significado de esta palabra", pues estaría
 **Explicación:** Este ejercicio es bastante difícil de entender de primeras así que intentaré esforzarme para explicarlo bien. Básicamente te dan una frase con **cuatro huecos**, uno de estos huecos está representado con una estrella y luego tienes cuatro opciones como de costumbre.
 Cada una de estas opciones son partes de la frase del enunciado y lo que tienes que señalar como respuesta es la parte **que va en el hueco señalado con la estrella**.
 
-Explicandolo con números, imaginate que te dan esta secuencia: 2, 4, 6, _, _, ★, _, 16, 18. y las opciones son 8, 10, 12 y 14. La respuesta correcta sería 12 ya que es la que va en el hueco señalado con la estrella.
+Explicándolo con números, imagínate que te dan esta secuencia: 2, 4, 6, _, _, ★, _, 16, 18. y las opciones son 8, 10, 12 y 14. La respuesta correcta sería 12 ya que es la que va en el hueco señalado con la estrella.
 
 ![Ejercicio orden](image-8.png)
 
@@ -184,7 +184,7 @@ Es común que te pongan conversaciones para que entiendas bien el contexto de la
 
 La respuesta correcta es la 3, 間に合うかもしれないから.
 
-La frase entera sería: "今すぐ | タクシーに | 乗れば | **間に合うかもしれないから** | タクシーで | 行こう。" que significa "Si cogemos un taxi ahora mismo, quizás lleguemos a tiempo, así que vamos en taxi." así que, ya que el cuadrado marcado con la estrella es el terecer hueco de la frase, la respuesta correcta es la 3.
+La frase entera sería: "今すぐ | タクシーに | 乗れば | **間に合うかもしれないから** | タクシーで | 行こう。" que significa "Si cogemos un taxi ahora mismo, quizás lleguemos a tiempo, así que vamos en taxi." así que, ya que el cuadrado marcado con la estrella es el tercer hueco de la frase, la respuesta correcta es la 3.
 </details>
 
 ### Gramática textual
@@ -222,7 +222,7 @@ En el texto habla del perro en el presente "犬がいます", por lo tanto la op
 
 En estos ejercicios de lectura no voy a explicar mucho, te ponen textos y tienes que responder preguntas sobre ellos. Esta clase de ejercicios solo se pueden afrontar inmersando mucho, especialmente la lectura, así que no la descuides.
 
-La respuesta **siempre** está en el texto, no te calientes la cabeza porque vas a ir mal de tiempo y seguramente saques conclusiones erroneas o directamente no te de tiempo a terminar la sección.
+La respuesta **siempre** está en el texto, no te calientes la cabeza porque vas a ir mal de tiempo y seguramente saques conclusiones erróneas o directamente no te dé tiempo a terminar la sección.
 
 ### Comprensión integrada
 - <ruby>統合理解<rt>とうごうりかい</rt></ruby> (N2/N1)
@@ -232,7 +232,7 @@ Este es un ejercicio curioso que solo sale en los niveles más altos, te van a p
 ### Comprensión temática (textos largos)
 - <ruby>主張理解<rt>しゅちょうりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>）(N2/N1)
 
-Aquí te ponen un texto un poquito más abstracto y te hacen preguntas sobre lo que el autor estaba pensado al escribirlo o cual es su punto de vista sobre ciertos temas.
+Aquí te ponen un texto un poquito más abstracto y te hacen preguntas sobre lo que el autor estaba pensado al escribirlo o cuál es su punto de vista sobre ciertos temas.
 
 ### Comprensión de información
 - <ruby>情報検索<rt>じょうほうけんさく</rt></ruby> (N5/N4/N3/N2/N1)
@@ -286,7 +286,7 @@ Así como ejemplo relacionado con el anterior, te podrían poner como audio al h
 ### Comprensión de integrada
 - <ruby>統合理解<rt>とうごうりかい</rt> (N2/N1)
 
-En este ejercicio te van a poner dos conversación muuuy largas, estamos hablando de un "fragmento" de un programa de radio o un debate entre dos personas. Aquí como no tomes apuntes estás vendido porque no puedes memorizar todo de lo que hablen.
+En este ejercicio te van a poner dos conversaciones muuuy largas, estamos hablando de un "fragmento" de un programa de radio o un debate entre dos personas. Aquí como no tomes apuntes estás vendido porque no puedes memorizar todo de lo que hablen.
 
 La primera parte te hará una pregunta general sobre la conversación, generalmente relacionada con la conclusión a la que han llegado o algún punto interesante.
 
@@ -295,4 +295,4 @@ En la segunda parte normalmente te comparan múltiples cosas de las dos conversa
 ## ¡Quiero practicar!
 Hemos desarrollado una web con ejercicios basados en exámenes anteriores del Noken de todos los niveles, puedes acceder a ella [dando click aquí](https://jlpt.manabe.es/).
 
-Esta página solo contiene ejercicios sobre la primera parte del examen (vocabulario y gramática), si quieres practicar las otras dos secciones te recomiendo que busques exámenes anteriores en internet y los hagas, en youtube hay algún que otro vídeo con exámenes completos resueltos.
+Esta página solo contiene ejercicios sobre la primera parte del examen (vocabulario y gramática), si quieres practicar las otras dos secciones te recomiendo que busques exámenes anteriores en internet y los hagas, en YouTube hay algún que otro vídeo con exámenes completos resueltos.

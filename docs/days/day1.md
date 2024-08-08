@@ -30,7 +30,7 @@ Cuando acabes, puedes dejar el drill por hoy.
 
 ## Extras
 ???+ tip "Más información sobre los silabarios"
-    Si te queda tiempo libre, puedes ver este vídeo (atención: es en inglés. Se puede utilizar el traducir automáticamente de youtube pero da resultados no confiables). Habla un poco sobre los silabarios y obtendrás culturilla.
+    Si te queda tiempo libre, puedes ver este vídeo (atención: es en inglés. Se puede utilizar el traducir automáticamente de YouTube pero da resultados no confiables). Habla un poco sobre los silabarios y obtendrás culturilla.
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_wZHqOghvSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
