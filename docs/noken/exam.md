@@ -8,10 +8,11 @@ Esta página estará divida según las secciones del examen, dentro de cada secc
 ### Lectura de kanjis
 - <ruby>漢字<rt>かんじ</rt>読<rt>よ</rt><ruby>み (N5/N4/N3/N2/N1)
 
-Enunciado oficial: _____の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la lectura apropiada para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** _____の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。
 
-Explicación: Es un ejercicio fácil de entender, te van a poner una frase y una de las palabras de esta frase va a aparecer subrayadada tal que así:
+**Traducción:** Elige la lectura apropiada para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Es un ejercicio fácil de entender, te van a poner una frase y una de las palabras de esta frase va a aparecer subrayadada tal que así:
 
 ![Ejercicio kanjis](image.png)
 
@@ -23,12 +24,13 @@ La respuesta correcta es la 2, せんしゅう.
 </details>
 
 ### Ortografía
-- - <ruby>表記<rt>ひょうき</rt></ruby> (N5/N4/N3/N2)
+- <ruby>表記<rt>ひょうき</rt></ruby> (N5/N4/N3/N2)
 
-Enunciado oficial: ＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。
-Traducción: Elige la escritura correcta en kanji para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** ＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。
 
-Explicación: Este puedes pensar que es como el anterior pero al revés, te van a poner una frase de igual forma, pero ahora la palabra subrayada va a estar en hiragana y tú tienes que elegir la escritura correcta en kanji (o katakana para el N5):
+**Traducción:** Elige la escritura correcta en kanji para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Este puedes pensar que es como el anterior pero al revés, te van a poner una frase de igual forma, pero ahora la palabra subrayada va a estar en hiragana y tú tienes que elegir la escritura correcta en kanji (o katakana para el N5):
 
 ![Ejercicio ortografía](image-1.png)
 
@@ -44,10 +46,11 @@ La respuesta correcta es la 2, 飲みました.
 
 Este ejercicio es muy de nicho ya que solo aparece en el N2, si quieres presentarte a cualquier otro nivel puedes ignorarlo.
 
-Enunciado oficial: （　　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la palabra que mejor encaje en el hueco en blanco entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** （　　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
 
-Explicación: En este ejercicio te van a dar una ""palabra compuesta"" a medias y lo que tienes que hacer es elegir lo que más sentido tenga en el hueco de la frase:
+**Traducción:** Elige la palabra que mejor encaje en el hueco en blanco entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** En este ejercicio te van a dar una ""palabra compuesta"" a medias y lo que tienes que hacer es elegir lo que más sentido tenga en el hueco de la frase:
 
 ![Ejercicio palabras compuestas](image-2.png)
 
@@ -63,10 +66,11 @@ Ni 不公式　ni 未公式 ni 無公式 existen, pero cuidado que a veces te po
 ### Expresiones definidas por contexto
 - <ruby>文脈規定<rt>ぶんみゃくきてい</rt></ruby> (N5/N4/N3/N2/N1)
 
-Enunciado oficial: _____に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la palabra que mejor encaje en el hueco en blanco entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** _____に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
 
-Explicación: Aunque el enunciado sea el mismo que el ejercicio anterior, este es diferente. Al igual que el otro, te dan una frase con un hueco y tienes que elegir una opción pero en este caso tienes que elegir la palabra que más pegue con el contexto de la frase, es decir, tienes que entender la frase y elegir la palabra que se usaría en ese contexto.
+**Traducción:** Elige la palabra que mejor encaje en el hueco en blanco entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Aunque el enunciado sea el mismo que el ejercicio anterior, este es diferente. Al igual que el otro, te dan una frase con un hueco y tienes que elegir una opción pero en este caso tienes que elegir la palabra que más pegue con el contexto de la frase, es decir, tienes que entender la frase y elegir la palabra que se usaría en ese contexto.
 
 ![Ejercicio contexto](image-3.png)
 
@@ -82,10 +86,11 @@ Sabiendo que la frase quiere decir "ayer limpié mi habitación, por lo que qued
 ### Parafraseo
 - <ruby>言<rt>い</rt>い換え<rt>か</rt>類義<rt>るいぎ</rt></ruby> (N5/N4/N3/N2/N1)
 
-Enunciado oficial: _____の言葉に意味が最も近ものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la palabra que más se acerque en significado a la palabra subrayada entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** _____の言葉に意味が最も近ものを、１・２・３・４から一つ選びなさい。
 
-Explicación: En este caso no tienes huecos en blanco, si no que volvemos a las palabras subrayadas. Entre las cuatro opciones que te dan tienes que elegir la que tenga un significado más parecido a la palabra subrayada **en el contexto de la frase**. En el caso de los niveles más bajos, en vez de palabras te pueden subrayar la frase entera y deberás seleccionar la frase que más se parezca, pondré un ejemplo de ambos casos.
+**Traducción:** Elige la palabra que más se acerque en significado a la palabra subrayada entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** En este caso no tienes huecos en blanco, si no que volvemos a las palabras subrayadas. Entre las cuatro opciones que te dan tienes que elegir la que tenga un significado más parecido a la palabra subrayada **en el contexto de la frase**. En el caso de los niveles más bajos, en vez de palabras te pueden subrayar la frase entera y deberás seleccionar la frase que más se parezca, pondré un ejemplo de ambos casos.
 
 N5/N4
 
@@ -107,10 +112,11 @@ N3/N2/N1
 ### Uso de palabras
 - <ruby>用法<rt>ようほう</rt></ruby> (N4/N3/N2/N1)
 
-Enunciado oficial: 次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la forma correcta de usar la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** 次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。
 
-Explicación: Personalmente me parece de los ejercicios más difíciles del examen. Te van a poner una palabra y cada opción va a ser una frase que utilice esa palabra. Tres de estas frases van a usarla de forma incorrecta y tú tienes que marcar la opción que use la palabra correctamente.
+**Traducción:** Elige la forma correcta de usar la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Personalmente me parece de los ejercicios más difíciles del examen. Te van a poner una palabra y cada opción va a ser una frase que utilice esa palabra. Tres de estas frases van a usarla de forma incorrecta y tú tienes que marcar la opción que use la palabra correctamente.
 
 ![Ejercicio uso](image-6.png)
 
@@ -133,10 +139,11 @@ Finalmente la cuarta opción habla de lo amarga que es una medicina.
 ### Gramática de frases (selección de forma gramatical)
 - <ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>1（<ruby>文法形式<rt>ぶんぽうけいしき</rt></ruby>の<ruby>判断<rt>はんだん</rt>）</ruby> (N5/N4/N3/N2/N1)
 
-Enunciado oficial: 次の文の_____に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la forma gramatical correcta para el hueco en blanco de la frase entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** 次の文の_____に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
 
-Explicación: Un ejercicio también sencillo de entender, te dan una frase con un hueco y tienes que poner la forma gramátical que mejor encaje en el hueco. En el caso del N5 está especialmente orientado a las particulas así que estudiatelas bien!
+**Traducción:** Elige la forma gramatical correcta para el hueco en blanco de la frase entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Un ejercicio también sencillo de entender, te dan una frase con un hueco y tienes que poner la forma gramátical que mejor encaje en el hueco. En el caso del N5 está especialmente orientado a las particulas así que estudiatelas bien!
 
 ![Ejercicio gramática 1](image-7.png)
 
@@ -159,10 +166,11 @@ y como la pregunta dice "_____ es el significado de esta palabra", pues estaría
 ### Gramática de frases (composición de frases)
 - <ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>1（<ruby>文<rt>ぶん</rt></ruby>の<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>て）</ruby> (N5/N4/N3/N2/N1)
 
-Enunciado oficial: 次の文の＿★＿に入れる最も良いものを、１・２・３・４から一つ選びなさい。
-Traducción: Elige la opción que mejor encaje en el hueco señalado con ★ de la frase entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** 次の文の＿★＿に入れる最も良いものを、１・２・３・４から一つ選びなさい。
 
-Explicación: Este ejercicio es bastante difícil de entender de primeras así que intentaré esforzarme para explicarlo bien. Básicamente te dan una frase con **cuatro huecos**, uno de estos huecos está representado con una estrella y luego tienes cuatro opciones como de costumbre.
+**Traducción:** Elige la opción que mejor encaje en el hueco señalado con ★ de la frase entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Este ejercicio es bastante difícil de entender de primeras así que intentaré esforzarme para explicarlo bien. Básicamente te dan una frase con **cuatro huecos**, uno de estos huecos está representado con una estrella y luego tienes cuatro opciones como de costumbre.
 Cada una de estas opciones son partes de la frase del enunciado y lo que tienes que señalar como respuesta es la parte **que va en el hueco señalado con la estrella**.
 
 Explicandolo con números, imaginate que te dan esta secuencia: 2, 4, 6, _, _, ★, _, 16, 18. y las opciones son 8, 10, 12 y 14. La respuesta correcta sería 12 ya que es la que va en el hueco señalado con la estrella.
@@ -182,10 +190,11 @@ La frase entera sería: "今すぐ | タクシーに | 乗れば | **間に合�
 ### Gramática textual
 - <ruby>文章<rt>ぶんしょう</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby> (N5/N4/N3/N2/N1)
 
-Enunciado oficial: XX から YY に何を入れますか。文章の意味を考えて、１・２・３・４から一番いいものを一つ選んでください。
-Traducción: ¿Qué pondrías en el hueco de XX a YY? Piensa en el significado de la frase y elige la mejor opción entre las opciones 1, 2, 3 y 4.
+**Enunciado oficial:** XX から YY に何を入れますか。文章の意味を考えて、１・２・３・４から一番いいものを一つ選んでください。
 
-Explicación: Este ejercicio es muuuy largo, te van a dar un texto con varios huecos en blanco y tienes que ir eligiendo las opciones que mejor encajen en el texto para cada uno de estos huecos. Básicamente es como el ejercicio de selección de forma gramatical pero a lo grande.
+**Traducción:** ¿Qué pondrías en el hueco de XX a YY? Piensa en el significado de la frase y elige la mejor opción entre las opciones 1, 2, 3 y 4.
+
+**Explicación:** Este ejercicio es muuuy largo, te van a dar un texto con varios huecos en blanco y tienes que ir eligiendo las opciones que mejor encajen en el texto para cada uno de estos huecos. Básicamente es como el ejercicio de selección de forma gramatical pero a lo grande.
 
 ![Ejercicio texto](image-9.png)
 
