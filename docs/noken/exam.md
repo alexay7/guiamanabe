@@ -2,7 +2,7 @@
 
 Esta página estará divida según las secciones del examen, dentro de cada sección habrá diferentes apartados con cada una de las preguntas que salen en el examen.
 
-!!! note Preguntas y niveles
+!!! note "Preguntas y niveles"
     Al lado del nombre de cada pregunta pondré todos los niveles en los que esta pregunta aparece. Por ejemplo, si una pregunta aparece en el N5 y en el N4, pondré N5/N4.
 ## Vocabulario
 ### Lectura de kanjis
@@ -247,7 +247,7 @@ En mi opinión es un ejercicio fácil, pero es el último de la sección de lect
 
 ## Comprensión auditiva
 
-!!! note Toma apuntes
+!!! note "Toma apuntes"
     En la sección de comprensión auditiva te dejan tomar apuntes, aprovecha la oportunidad y apunta palabras clave sobre la pregunta que te han hecho inicialmente y las cosas que van saliendo en cada conversación.
 
     Es **muy** importante ya que te pueden preguntar cosas como "que hay a la izquierda de la mesa?" y tú has entendido perfectamente la conversación pero no te acuerdas si en la pregunta te decían izquierda o derecha. Sé listo!

@@ -75,7 +75,7 @@ Si has instalado la versión más nueva de Anki (que es lo que deberías haber h
 
 Pese a que es algo relativamente nuevo, está expandida la idea de que este algoritmo es mejor y más avanzado que el que viene por defecto por lo que recomendamos activarlo, para ello simplemente tienes que activar el switch que pone "FSRS" y darle a guardar. Si tienes curiosidad por el resto de campos en esta categoría y quieres ponerlos a tu gusto puedes visitar esta [guía en inglés](https://github.com/open-spaced-repetition/fsrs4anki/blob/main/docs/tutorial.md).
 
-!!! danger Qué NO hacer si activas el FSRS
+!!! danger "Qué NO hacer si activas el FSRS"
     Al empezar Anki puede ser que tengas un hábito muy común, este es, darle al botón de Hard cuando has fallado una carta pero "casi te acuerdas", esto no se debe hacer porque despistas al algoritmo. Hard solo debe pulsarse si has acertado la carta pero con esfuerzo, si no, siempre pulsa Again.
 
 ### Comenzar el estudio
