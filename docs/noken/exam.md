@@ -208,7 +208,9 @@ En el texto habla del perro en el presente "犬がいます", por lo tanto la op
 <ruby>読解<rt>どっかい</rt></ruby>
 
 <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>短文<rt>たんぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
+
 <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>中文<rt>ちゅうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
+
 <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N3/N1
 
 En estos ejercicios de lectura no voy a explicar mucho, te ponen textos y tienes que responder preguntas sobre ellos. Esta clase de ejercicios solo se pueden afrontar inmersando mucho, especialmente la lectura, así que no la descuides.
@@ -240,9 +242,9 @@ En mi opinión es un ejercicio fácil, pero es el último de la sección de lect
 <ruby>聴解<rt>ちょうかい</rt></ruby>
 
 !!! note Toma apuntes!
-    En la sección de comprensión auditiva te dejan tomar apuntes, aprovecha la oportunidad y apunta palabras clave sobre la pregunta que te han hecho inicialmente y las cosas que van saliendo en cada conversación.
+        En la sección de comprensión auditiva te dejan tomar apuntes, aprovecha la oportunidad y apunta palabras clave sobre la pregunta que te han hecho inicialmente y las cosas que van saliendo en cada conversación.
 
-    Es **muy** importante ya que te pueden preguntar cosas como "que hay a la izquierda de la mesa?" y tú has entendido perfectamente la conversación pero no te acuerdas si en la pregunta te decían izquierda o derecha. Sé listo!
+        Es **muy** importante ya que te pueden preguntar cosas como "que hay a la izquierda de la mesa?" y tú has entendido perfectamente la conversación pero no te acuerdas si en la pregunta te decían izquierda o derecha. Sé listo!
 
 ### Comprensión de tareas
 <ruby>課題理解<rt>かだいりかい</rt></ruby> (N5/N4/N3/N2/N1)
