@@ -5,10 +5,8 @@ Esta página estará divida según las secciones del examen, dentro de cada secc
 !!! note Preguntas y niveles
     Al lado del nombre de cada pregunta pondré todos los niveles en los que esta pregunta aparece. Por ejemplo, si una pregunta aparece en el N5 y en el N4, pondré N5/N4.
 ## Vocabulario
-<ruby>文字<rt>もじ</rt></ruby>・<ruby>語彙<rt>ごい</rt></ruby>
-
 ### Lectura de kanjis
-<ruby>漢字<rt>かんじ</rt>読<rt>よ</rt><ruby>み (N5/N4/N3/N2/N1)
+- <ruby>漢字<rt>かんじ</rt>読<rt>よ</rt><ruby>み (N5/N4/N3/N2/N1)
 
 Enunciado oficial: _____の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。
 Traducción: Elige la lectura apropiada para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
@@ -25,7 +23,7 @@ La respuesta correcta es la 2, せんしゅう.
 </details>
 
 ### Ortografía
-<ruby>表記<rt>ひょうき</rt></ruby> (N5/N4/N3/N2)
+- - <ruby>表記<rt>ひょうき</rt></ruby> (N5/N4/N3/N2)
 
 Enunciado oficial: ＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。
 Traducción: Elige la escritura correcta en kanji para la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
@@ -42,7 +40,7 @@ La respuesta correcta es la 2, 飲みました.
 </details>
 
 ### Formación de palabras
-<ruby>語形成<rt>ごけいせい</rt></ruby> (N2)
+- <ruby>語形成<rt>ごけいせい</rt></ruby> (N2)
 
 Este ejercicio es muy de nicho ya que solo aparece en el N2, si quieres presentarte a cualquier otro nivel puedes ignorarlo.
 
@@ -63,7 +61,7 @@ Ni 不公式　ni 未公式 ni 無公式 existen, pero cuidado que a veces te po
 </details>
 
 ### Expresiones definidas por contexto
-<ruby>文脈規定<rt>ぶんみゃくきてい</rt></ruby> (N5/N4/N3/N2/N1)
+- <ruby>文脈規定<rt>ぶんみゃくきてい</rt></ruby> (N5/N4/N3/N2/N1)
 
 Enunciado oficial: _____に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
 Traducción: Elige la palabra que mejor encaje en el hueco en blanco entre las opciones 1, 2, 3 y 4.
@@ -82,7 +80,7 @@ Sabiendo que la frase quiere decir "ayer limpié mi habitación, por lo que qued
 </details> 
 
 ### Parafraseo
-<ruby>言<rt>い</rt>い換え<rt>か</rt>類義<rt>るいぎ</rt></ruby> (N5/N4/N3/N2/N1)
+- <ruby>言<rt>い</rt>い換え<rt>か</rt>類義<rt>るいぎ</rt></ruby> (N5/N4/N3/N2/N1)
 
 Enunciado oficial: _____の言葉に意味が最も近ものを、１・２・３・４から一つ選びなさい。
 Traducción: Elige la palabra que más se acerque en significado a la palabra subrayada entre las opciones 1, 2, 3 y 4.
@@ -90,9 +88,11 @@ Traducción: Elige la palabra que más se acerque en significado a la palabra su
 Explicación: En este caso no tienes huecos en blanco, si no que volvemos a las palabras subrayadas. Entre las cuatro opciones que te dan tienes que elegir la que tenga un significado más parecido a la palabra subrayada **en el contexto de la frase**. En el caso de los niveles más bajos, en vez de palabras te pueden subrayar la frase entera y deberás seleccionar la frase que más se parezca, pondré un ejemplo de ambos casos.
 
 N5/N4
+
 ![Ejercicio parafraseo fácil](image-5.png)
 
 N3/N2/N1
+
 ![Ejercicio parafraseo dificil](image-4.png)
 
 <details>
@@ -105,7 +105,7 @@ N3/N2/N1
 </details>
 
 ### Uso de palabras
-<ruby>用法<rt>ようほう</rt></ruby> (N4/N3/N2/N1)
+- <ruby>用法<rt>ようほう</rt></ruby> (N4/N3/N2/N1)
 
 Enunciado oficial: 次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。
 Traducción: Elige la forma correcta de usar la palabra que aparece subrayada entre las opciones 1, 2, 3 y 4.
@@ -130,10 +130,8 @@ Finalmente la cuarta opción habla de lo amarga que es una medicina.
 ---
 
 ## Gramática
-<ruby>文法<rt>ぶんぽう</rt></ruby>
-
 ### Gramática de frases (selección de forma gramatical)
-<ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>1（<ruby>文法形式<rt>ぶんぽうけいしき</rt></ruby>の<ruby>判断<rt>はんだん</rt>）</ruby> (N5/N4/N3/N2/N1)
+- <ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>1（<ruby>文法形式<rt>ぶんぽうけいしき</rt></ruby>の<ruby>判断<rt>はんだん</rt>）</ruby> (N5/N4/N3/N2/N1)
 
 Enunciado oficial: 次の文の_____に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。
 Traducción: Elige la forma gramatical correcta para el hueco en blanco de la frase entre las opciones 1, 2, 3 y 4.
@@ -159,7 +157,7 @@ y como la pregunta dice "_____ es el significado de esta palabra", pues estaría
 </details>
 
 ### Gramática de frases (composición de frases)
-<ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>1（<ruby>文<rt>ぶん</rt></ruby>の<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>て）</ruby> (N5/N4/N3/N2/N1)
+- <ruby>文<rt>ぶん</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>1（<ruby>文<rt>ぶん</rt></ruby>の<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>て）</ruby> (N5/N4/N3/N2/N1)
 
 Enunciado oficial: 次の文の＿★＿に入れる最も良いものを、１・２・３・４から一つ選びなさい。
 Traducción: Elige la opción que mejor encaje en el hueco señalado con ★ de la frase entre las opciones 1, 2, 3 y 4.
@@ -182,7 +180,7 @@ La frase entera sería: "今すぐ | タクシーに | 乗れば | **間に合�
 </details>
 
 ### Gramática textual
-<ruby>文章<rt>ぶんしょう</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby> (N5/N4/N3/N2/N1)
+- <ruby>文章<rt>ぶんしょう</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby> (N5/N4/N3/N2/N1)
 
 Enunciado oficial: XX から YY に何を入れますか。文章の意味を考えて、１・２・３・４から一番いいものを一つ選んでください。
 Traducción: ¿Qué pondrías en el hueco de XX a YY? Piensa en el significado de la frase y elige la mejor opción entre las opciones 1, 2, 3 y 4.
@@ -205,30 +203,30 @@ En el texto habla del perro en el presente "犬がいます", por lo tanto la op
 
 ---
 ## Comprensión lectora
-<ruby>読解<rt>どっかい</rt></ruby>
 
-<ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>短文<rt>たんぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
+### Comprensión lectora de textos
+- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>短文<rt>たんぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
 
-<ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>中文<rt>ちゅうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
+- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>中文<rt>ちゅうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
 
-<ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N3/N1
+- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N3/N1
 
 En estos ejercicios de lectura no voy a explicar mucho, te ponen textos y tienes que responder preguntas sobre ellos. Esta clase de ejercicios solo se pueden afrontar inmersando mucho, especialmente la lectura, así que no la descuides.
 
 La respuesta **siempre** está en el texto, no te calientes la cabeza porque vas a ir mal de tiempo y seguramente saques conclusiones erroneas o directamente no te de tiempo a terminar la sección.
 
 ### Comprensión integrada
-<ruby>統合理解<rt>とうごうりかい</rt></ruby> (N2/N1)
+- <ruby>統合理解<rt>とうごうりかい</rt></ruby> (N2/N1)
 
 Este es un ejercicio curioso que solo sale en los niveles más altos, te van a poner un texto A y un texto B hablando del mismo tema. Después te van a hacer preguntas donde comparan los dos textos y te preguntan cosas como "¿Qué piensa el autor del texto A sobre X?" o "¿Qué tema toca el texto A que no toca el texto B?"
 
 ### Comprensión temática (textos largos)
-<ruby>主張理解<rt>しゅちょうりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>）(N2/N1)
+- <ruby>主張理解<rt>しゅちょうりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>）(N2/N1)
 
 Aquí te ponen un texto un poquito más abstracto y te hacen preguntas sobre lo que el autor estaba pensado al escribirlo o cual es su punto de vista sobre ciertos temas.
 
 ### Comprensión de información
-<ruby>情報検索<rt>じょうほうけんさく</rt></ruby> (N5/N4/N3/N2/N1)
+- <ruby>情報検索<rt>じょうほうけんさく</rt></ruby> (N5/N4/N3/N2/N1)
 
 Este ejercicio la verdad que parece una tontería pero yo creo que es bastante importante si vas a vivir en Japón. Te van a poner texto en un formato en el que vas a tener que buscar información concreta, por ejemplo: un horario de trenes, un flyer de un concierto, un correo corporativo, una tabla de precios... y te van a hacer preguntas concretas sobre estos textos.
 
@@ -239,46 +237,45 @@ En mi opinión es un ejercicio fácil, pero es el último de la sección de lect
 ---
 
 ## Comprensión auditiva
-<ruby>聴解<rt>ちょうかい</rt></ruby>
 
-!!! note Toma apuntes!
-        En la sección de comprensión auditiva te dejan tomar apuntes, aprovecha la oportunidad y apunta palabras clave sobre la pregunta que te han hecho inicialmente y las cosas que van saliendo en cada conversación.
+!!! note Toma apuntes
+    En la sección de comprensión auditiva te dejan tomar apuntes, aprovecha la oportunidad y apunta palabras clave sobre la pregunta que te han hecho inicialmente y las cosas que van saliendo en cada conversación.
 
-        Es **muy** importante ya que te pueden preguntar cosas como "que hay a la izquierda de la mesa?" y tú has entendido perfectamente la conversación pero no te acuerdas si en la pregunta te decían izquierda o derecha. Sé listo!
+    Es **muy** importante ya que te pueden preguntar cosas como "que hay a la izquierda de la mesa?" y tú has entendido perfectamente la conversación pero no te acuerdas si en la pregunta te decían izquierda o derecha. Sé listo!
 
 ### Comprensión de tareas
-<ruby>課題理解<rt>かだいりかい</rt></ruby> (N5/N4/N3/N2/N1)
+- <ruby>課題理解<rt>かだいりかい</rt></ruby> (N5/N4/N3/N2/N1)
 
 Te van a poner una conversación y te van a hacer una pregunta sobre ella **antes de ponerte el audio**, deberás escuchar la conversación, entender lo que dicen y seleccionar la respuesta correcta.
 
 ### Comprensión de puntos clave
-ポイント<ruby>理解<rt>りかい</rt></ruby> (N5/N4/N3/N2/N1)
+- ポイント<ruby>理解<rt>りかい</rt></ruby> (N5/N4/N3/N2/N1)
 
 Es como el anterior, en vez de hacerte preguntas sobre la comprensión general de la conversación, serán preguntas sobre algo más concreto. En este ejercicio es especialmente importante tomar apuntes sobre la pregunta que te hagan.
 
 ### Comprensión general
-<ruby>概要理解<rt>がいようりかい</rt></ruby> (N3/N2/N1)
+- - <ruby>概要理解<rt>がいようりかい</rt></ruby> (N3/N2/N1)
 
 Este ejercicio es como el anterior pero con una diferencia clave, **no te van a decir la pregunta con antelación**, es decir, primero vas a tener que escuchar la conversación y captar los puntos que creas clave y al acabar la conversación te van a hacer una pregunta sobre algo que hayan dicho.
 
 Este es bastante hit or miss, como no hayas cogido bien el punto del que trata la pregunta la has cagado. Importantes los apuntes.
 
 ### Expresión oral
-<ruby>発話表現<rt>はつわひょうげん</rt></ruby> (N5/N4/N3)
+- <ruby>発話表現<rt>はつわひょうげん</rt></ruby> (N5/N4/N3)
 
 En este ejercicio te van a poner un dibujo con una situación y van a reproducir 3 audios con posibles expresiones que se dirían en ese contexto, tienes que elegir la expresión que más encaje con la situación.
 
 Por ejemplo, la situación es un hombre volviendo a su casa y las opciones son "おかえり", "ただいま" y "こんばんは", pues la respuesta sería "ただいま".
 
 ### Respuesta inmediata
-<ruby>即時応答<rt>そくじおうとう</rt></ruby> (N5/N4/N3/N2/N1)
+- <ruby>即時応答<rt>そくじおうとう</rt></ruby> (N5/N4/N3/N2/N1)
 
 Exactamente lo mismo que el anterior pero en vez de ser una situación, es una respuesta a algo que te dicen y aquí no hay dibujo.
 
 Así como ejemplo relacionado con el anterior, te podrían poner como audio al hombre diciendo "ただいま" y a su mujer respondiendo "おかえり", "ただいま" o "こんばんは", la respuesta correcta sería "おかえり".
 
 ### Comprensión de integrada
-<ruby>統合理解<rt>とうごうりかい</rt> (N2/N1)
+- <ruby>統合理解<rt>とうごうりかい</rt> (N2/N1)
 
 En este ejercicio te van a poner dos conversación muuuy largas, estamos hablando de un "fragmento" de un programa de radio o un debate entre dos personas. Aquí como no tomes apuntes estás vendido porque no puedes memorizar todo de lo que hablen.
 
