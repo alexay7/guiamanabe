@@ -16,7 +16,7 @@ No necesitas saber más, así que pasamos a la práctica.
 ## Conociendo los silabarios
 Vamos a aprender los silabarios por fuerza bruta, ya que es la mejor técnica. Hay gente que en 2 horas ya los medio domina, mientras que a otros les toma más tiempo. No es problema porque te vas a hartar a verlos.
 
-Vas a usar esta web para practicar: [Repasa los kanas](https://jlpt.manabe.es/kanas).
+Vas a usar esta web para practicar: [Repasa los kanas](https://renshuu.manabe.es/kanas).
 
 Pondrás el temporizador a 10 minutos (el temporizador es el cuadrado verde que hay en la mitad de la página, el número que introduzcas será interpretado como la cantidad de minutos que quieras estudiar y comenzará cuando pulses el botón verde de abajo)
 

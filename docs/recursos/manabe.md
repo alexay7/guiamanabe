@@ -7,7 +7,7 @@
     <a href="https://ranobe.manabe.es" class="lobby-button">
         Novelas ligeras
     </a>
-    <a href="https://jlpt.manabe.es" class="lobby-button">
+    <a href="https://renshuu.manabe.es" class="lobby-button">
         Ejercicios JLPT
     </a>
     <a href="https://discord.gg/y8P7mpDTcB" class="lobby-button">

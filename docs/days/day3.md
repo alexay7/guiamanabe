@@ -3,7 +3,7 @@
 ## Repaso de kanas
 Como siempre, **hacemos nuestros kanas** repasando todo lo que ya hemos aprendido, y de paso añadimos la siguiente tabla. 
 
-Vas a usar esta web para practicar: [Repasa los kanas](https://jlpt.manabe.es/kanas)  
+Vas a usar esta web para practicar: [Repasa los kanas](https://renshuu.manabe.es/kanas)  
 
 Hoy es el día en el que empezaremos a entender **conceptos básicos de gramática**. No hay que alarmarse para nada. Son lecciones cortas y no hará falta hacer ningún ejercicio ni nada por el estilo. 
 
