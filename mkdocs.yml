@@ -11,7 +11,7 @@ theme:
     code: "Roboto Mono"
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: slate
       primary: custom
       accent: custom
       toggle:
