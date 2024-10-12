@@ -216,9 +216,9 @@ En el texto habla del perro en el presente "犬がいます", por lo tanto la op
 ### Comprensión lectora de textos
 - <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>短文<rt>たんぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
 
-- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>中文<rt>ちゅうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N5/N4/N3/N2/N1
+- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>中文<rt>ちゅうぶん</rt></ruby>） (Comprensión lectora, textos medianos) N5/N4/N3/N2/N1
 
-- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>） (Comprensión lectora, textos cortos) N3/N1
+- <ruby>内容理解<rt>ないようりかい</rt></ruby>（<ruby>長文<rt>ちょうぶん</rt></ruby>） (Comprensión lectora, textos largos) N3/N1
 
 En estos ejercicios de lectura no voy a explicar mucho, te ponen textos y tienes que responder preguntas sobre ellos. Esta clase de ejercicios solo se pueden afrontar inmersando mucho, especialmente la lectura, así que no la descuides.
 
@@ -263,7 +263,7 @@ Te van a poner una conversación y te van a hacer una pregunta sobre ella **ante
 Es como el anterior, en vez de hacerte preguntas sobre la comprensión general de la conversación, serán preguntas sobre algo más concreto. En este ejercicio es especialmente importante tomar apuntes sobre la pregunta que te hagan.
 
 ### Comprensión general
-- - <ruby>概要理解<rt>がいようりかい</rt></ruby> (N3/N2/N1)
+- <ruby>概要理解<rt>がいようりかい</rt></ruby> (N3/N2/N1)
 
 Este ejercicio es como el anterior pero con una diferencia clave, **no te van a decir la pregunta con antelación**, es decir, primero vas a tener que escuchar la conversación y captar los puntos que creas clave y al acabar la conversación te van a hacer una pregunta sobre algo que hayan dicho.
 
