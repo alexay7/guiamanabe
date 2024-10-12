@@ -26,7 +26,7 @@ Si he logrado despertar algo en tu interior, sigue hacia delante y **学べ**！
 Antes de pasar al siguiente artículo, quiero informarte de que tenemos una guía de cómo deberían ser tus primeros 30 días estudiando japonés, la cual es totalmente compatible con estos artículos que se centran en la teoría. Si estás motivado, empieza ya y al acabar el día 1, continúa por aquí con la teoría. Y si no, hazlo cuando acabes estos artículos, los cuales son una lectura amena e interesante.
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
-  [Tus primeros 30 días estudiando japonés](/days/day1.md){.md-button .md-button--primary}
+  [Tus primeros 30 días estudiando japonés](../days/day1.md){.md-button .md-button--primary}
 </div>
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">

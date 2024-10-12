@@ -26,8 +26,8 @@ Si no aguantas la voz robótica o no te gusta ver vídeos, sino que prefieres le
 
 #### Leer la guía de Tae Kim
 Esta es la que personalmente hice, y no me ha ido mal.
-Tienes la versión en inglés: https://guidetojapanese.org/learn/ (a la derecha está el índice)
-Y la versión en castellano: http://www.guidetojapanese.org/spanish/index.html#contents 
+Tienes la versión en inglés: [https://guidetojapanese.org/learn/](https://guidetojapanese.org/learn/) (a la derecha está el índice)<br>
+Y la versión en castellano: [http://www.guidetojapanese.org/spanish/index.html#contents](http://www.guidetojapanese.org/spanish/index.html#contents)
 
 Aunque haya secciones donde ponga que es avanzado, no es cierto, casi todo es muy básico en la guía.
 

@@ -2,7 +2,7 @@
   --main-color: #afdab8;
   --white: #ebe8e3;
   --black: #101010;
-  --secondary-dark: #308054;
+  --secondary-dark: #34a969;
   --secondary-light: #25502e;
   --accent-dark: #5bbfc2;
   --accent-light: #3da0a4;
@@ -33,11 +33,6 @@ h2 {
 
 .manabe_header {
   background-color: #000;
-}
-
-.md-logo img {
-  width: 50px !important;
-  height: 50px !important;
 }
 
 .md-copyright {

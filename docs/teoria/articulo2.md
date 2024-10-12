@@ -50,5 +50,5 @@ La respuesta a ambos plantamientos es: sí, debes introducir todo eso en el proc
 
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
-  [Pasar al siguiente artículo](/teoria/articulo3.md){.md-button .md-button--primary}
+  [Pasar al siguiente artículo](articulo3.md){.md-button .md-button--primary}
 </div>

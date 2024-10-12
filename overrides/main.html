@@ -8,14 +8,39 @@
     <div style="display: flex;align-items: center;font-size: larger;justify-content: center;">
         <a href="https://discord.gg/y8P7mpDTcB" target="_blank" rel="noreferrer" class="md-header__button md-icon"
             style="color: var(--md-footer-accent-color); background-color: transparent;padding: 5px; border-radius: 9999px;">
-            {% set icon = config.theme.icon.search or "fontawesome/brands/discord" %}
+            {% set icon = "fontawesome/brands/discord" %}
             {% include ".icons/" ~ icon ~ ".svg" %}
         </a>
         <div style="display: flex;">
-            <p style="margin:0;">Únete a nuestro </p>
-            <a style="color: var(--md-footer-accent-color);" href="https://discord.gg/y8P7mpDTcB" target="_blank"
-                rel="noreferrer">&nbsp;servidor de Discord</a>
+            <a style="color: white;" href="https://discord.gg/y8P7mpDTcB" target="_blank" rel="noreferrer">
+                <p style="margin:0;">Únete a nuestra comunidad</p>
+            </a>
         </div>
     </div>
 </div>
+</div>
+<div class="blur-[192px] w-[1000px] h-[1100px] -rotate-45 absolute -top-1/3 -right-[200px] -z-10 mocoarriba">
+</div>
+<script>
+    // When the page loads
+    window.addEventListener('load', () => {
+        // Find secondary sidebar
+        const sidebar = document.querySelector('.md-sidebar--secondary');
+
+        if (sidebar) {
+
+            // Search it here is a title
+            const title = sidebar.querySelector('.md-nav__title');
+
+            if (title) {
+                // Show the sidebar (add the important)
+
+                // Only show if we are not in mobile
+                if (window.innerWidth > 1000) {
+                    sidebar.setAttribute('style', 'display: flex !important;');
+                }
+            }
+        }
+    });
+</script>
 {% endblock %}

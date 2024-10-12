@@ -1,8 +1,10 @@
 site_name: Guía Manabe - Introducción al Japonés
 theme:
   name: material
-  logo: assets/logo.svg
+  logo: assets/manabelogo.svg
   favicon: assets/favicon.svg
+  icon:
+    search: custom/zoom
   custom_dir: overrides
   font:
     text: "Montserrat"
@@ -71,6 +73,7 @@ nav:
       - Recursos de Anki: recursos/anki.md
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/newmanabe.css
 extra:
   social:
     - icon: fontawesome/brands/discord
