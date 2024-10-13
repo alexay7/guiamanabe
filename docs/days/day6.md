@@ -107,9 +107,16 @@ Ahora buscaré mis subtítulos. Los subtítulos los deberías poder encontrar en
 
 Una vez abierto el capítulo en cuestión, sólo falta activar la extensión ASBPlayer en la ventana de HiAnime. Para eso pincharemos en la aplicación arriba al lado de la barra de búsqueda de nuestro navegador (puede que esté donde el botón del puzzle) y le daremos a abrir panel lateral (Open side panel).
 
+![Captura de dónde está el botón de la extensión ASBPlayer](video2.PNG)
+
 Tendremos que cargar los subtítulos (Load subtitles). Tenemos que recordar dónde los hemos guardado, y los seleccionaremos. 
 
+![Captura de cargar subtítulos](video3.PNG)
+
 Te explico rápidamente lo que estás viendo aquí.
+
+![Captura con el vídeo y los subtítulos al lado](video4.PNG)
+
 En primer lugar, tenemos el vídeo, pausado en el 0:00. Lo amarillo abajo en la barrita es el opening y el ending, los cuales si quieres ver, te recomiendo tener marcada la opción en la web de HiAnime de "Auto Skip Intro Off".
 
 Lo que está a la derecha son todas las líneas de subtítulo. Si los subtítulos están totalmente sincronizados con el anime en cuestión, los segundos que aparecen a la derecha serán los segundos en los cuales se habla en el anime.
@@ -122,9 +129,15 @@ Si le damos al play al vídeo veremos que en realidad, se empieza a hablar en el
 
 Si abrimos de nuevo la extensión de ASBPlayer arriba a la derecha de la barra de búsqueda, veremos que sale un menú. En él podemos pincharemos a Keyboard Shortcuts (accesos directos).
 
+![Desplegable ASBPlayer](video5.PNG)
+
 Bajaremos hasta que veamos "Adjust subtitle offset so that next subtitle is at current timestamp". Vemos que pone ctrl+right (mantener pulsado el botón ctrl y pulsar derecha, en las 4 flechitas que tiene nuestro teclado). Si tu teclado no los tiene porque es minimalista, cambia el acceso directo a ctrl + otra cosa. 
 
+![Opción de ajustar subtítulos](video6.PNG)
+
 Este shortcut lo que indica es que si estamos en el mismo momento en el vídeo en el que empieza la primera persona/narrador a hablar, y pausamos y le damos ctrl + →, fijaremos la primera línea de subtítulo a este momento.
+
+![Nuevos tiempos en los subtítulos](video7.PNG)
 
 Y si le doy al play en el vídeo, veré que los subtítulos están sincronizados. Como podéis observar, ahora los subtítulos salen más o menos según se habla. Si entrenamos esta habilidad seremos capaces ajustar todos los subtítulos que nos encontremos.
 
@@ -132,9 +145,13 @@ Si por lo que fuera es al revés, que los subtítulos empiezan antes que la voz,
 Ctrl + shift + izquierda
 Ctrl + shift + derecha
 
+![Comandos para mover 100ms o -100ms de los subtítulos](video8.PNG)
+
 Estos comandos mueven los subtítulos 0,1 segundos cada vez que los pulsamos. Si salen antes, tendremos que mover a la derecha. Si salen después, mover a la izquierda. Habrá que pulsar unas cuantas veces (si son 15 segundos, pues 150 veces, pero se puede mantener pulsado).
 
 Una vez sincronizados, podemos usar Yomitan y leer todas las palabras que van apareciendo en los subtítulos dentro de la misma ventana del vídeo, la ventana de la derecha la podemos cerrar.
+
+![Uso de Yomitan sobre los subtítulos](video9.PNG)
 
 ### ¿Cómo se "lee" un anime?
 Bien, ahora que estamos listos, ¿cuál sería la manera de proceder con este tipo de inmersión?  
