@@ -1,6 +1,6 @@
 # Día 31, ¿ahora qué?
 
-Enhorabuena. Lo has conseguido. Has conseguido aguantar tus primeros 30 días. Los que te quedan seguramente sean bastante más que estos 30 días. Yo tardé unos 2 años en sacarme el N1 y tardé unas 5000 horas. ¿Puedes mejorarlo? :) 
+Enhorabuena. Lo has conseguido. Has conseguido aguantar tus primeros 30 días. Los que te quedan seguramente sean bastante más que estos 30 días. Yo tardé unos 2 años en sacarme el N1 y tardé unas 3500 horas. ¿Puedes mejorarlo? :) 
 
 La dopamina por conseguir el objetivo es muy agradable, pero vamos a ponernos más metas. Algunas de estas metas son a corto plazo. Otras a medio, y por último, más de una es a largo plazo. Es muy posible que cumplas algún objetivo dentro de un año.
 
@@ -18,7 +18,7 @@ Si eres de este tipo de gente el proceso para aprender el idioma es el mismo, de
 - Terminar todos los volúmenes del manga que hayas elegido (algunos siguen publicándose con lo cual te tocará esperar para seguir leyendo).
 - Terminar el mazo de Tango N5.
 - Termina el mazo RRTK450.
-- Termina la guía de gramática de Cure Dolly.
+- Termina la guía de gramática que elegiste.
 - Estudia toda la gramática japonesa del Diccionario de gramática japonesa. 
   Hay un mazo Anki para eso aquí: https://ankiweb.net/shared/info/1013111837 . Hay 629 puntos gramaticales, desde principiantes hasta avanzados.
 - Empieza a estudiar la pronunciación y el acento del japonés con esta guía https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit
