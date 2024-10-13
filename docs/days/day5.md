@@ -12,7 +12,7 @@ Tu Anki de hoy será ligeramente diferente. **Tendrás un número azul y un núm
     Si en algún momento no puedes seguir el ritmo de acumulación de repasos, **¡reduce tu límite de nuevas tarjetas por día!** Pero esto lo valorarás al cabo de unas semanas, no ahora.
 
 ## Gramática
-Después de haber hecho tu Anki diario, deberías pasar a tu estudio diario de gramática. Haz lo mismo que has ido haciendo estos días (2? 3? Los vídeos que quieras).
+Después de haber hecho tu Anki diario, deberías pasar a tu estudio diario de gramática. Haz lo mismo que has ido haciendo estos días.
 
 ## Inmersión
 Después de eso, sólo falta tu dosis de inmersión diaria. Haz lo que suelas hacer (1-2 capítulos sin subtítulos, serán 2-4 si quieres más).
