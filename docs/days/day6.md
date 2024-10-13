@@ -127,7 +127,7 @@ Si leemos bien en la barra de la derecha, vemos que la primera línea de subtít
 
 Si le damos al play al vídeo veremos que en realidad, se empieza a hablar en el segundo 2.8 más o menos. Esto significa que tenemos unos subtítulos adelantados unos 15 segundos (17.727-2.8). 
 
-Si abrimos de nuevo la extensión de ASBPlayer arriba a la derecha de la barra de búsqueda, veremos que sale un menú. En él podemos pincharemos a Keyboard Shortcuts (accesos directos).
+Si abrimos de nuevo la extensión de ASBPlayer arriba a la derecha de la barra de búsqueda, veremos que sale un menú. En él pincharemos a Keyboard Shortcuts (accesos directos).
 
 ![Desplegable ASBPlayer](video5.PNG)
 
@@ -139,7 +139,7 @@ Este shortcut lo que indica es que si estamos en el mismo momento en el vídeo e
 
 ![Nuevos tiempos en los subtítulos](video7.PNG)
 
-Y si le doy al play en el vídeo, veré que los subtítulos están sincronizados. Como podéis observar, ahora los subtítulos salen más o menos según se habla. Si entrenamos esta habilidad seremos capaces ajustar todos los subtítulos que nos encontremos.
+Y si le doy al play en el vídeo, veré que los subtítulos están sincronizados. Como podéis observar, ahora los subtítulos salen más o menos según se habla. Si entrenamos esta habilidad seremos capaces de ajustar todos los subtítulos que nos encontremos.
 
 Si por lo que fuera es al revés, que los subtítulos empiezan antes que la voz, podemos hacerlo con ctrl + ←, pero es un poco más complicado si son varios subtítulos los que van por detrás. En ese caso os recomiendo los siguientes comandos e ir yendo por centésimas de segundo hasta que cuadremos los subtítulos:
 Ctrl + shift + izquierda
