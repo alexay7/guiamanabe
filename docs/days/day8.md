@@ -3,6 +3,9 @@
 Hoy vamos a añadir un mazo nuevo a Anki, para hacer las cosas un poco más divertidas y que sientas que vas progresando. 🙂
 A estas alturas debes de tener clara tu metodología diaria, así que vamos a añadir una cosa más: los kanjis.
 
+!!! note "El mazo está en inglés"
+Si tu inglés no es muy allá, puedes optar por saltártelo ya que no está traducido todavía. Estudiar los significados de los kanjis y cómo se forman, en Anki, es bastante positivo para tus comienzos, pero no obligatorio. No todo el mundo lo ha hecho y ha obtenido resultados igual.
+
 ## Los kanjis
 Los kanjis son dibujitos, rayajos, runas, provenientes del chino hace bastantes cientos de años. Saber kanjis en japonés nos puede ayudar a aprender chino luego, pero **los kanjis NO SON LOS MISMOS que los HANZIS** (kanji en chino) actuales. Ambos idiomas han ido evolucionando y cambiando. Lo cual tiene sus ventajas y sus desventajas.
 
@@ -37,9 +40,6 @@ Para tener una buena base y entender cómo funcionan los kanjis, existen varios 
 
 Pero como este conocimiento sí es importante tenerlo en cuenta para tus estudios, existe un mazo de unos 450 kanjis, los más típicos y los que más palabras forman, los cuales es importante conocer su significado, para que luego podamos aprender las palabras que los componen de una manera más rápida y cómoda.
 
-!!! note "El mazo está en inglés"
-    Si tu inglés es terrible (muy malo) y este mazo se te atraganta, te lo puedes saltar. No es el fin del mundo y hay gente que ha llegado a un nivel muy alto sin hacer nada de esto. Pero sí es cierto que te ayudaría a entender mejor los kanji.
-
 Para descargarlo haremos clic a [este enlace](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ )
 
 Recordad: el objetivo de este mazo es que nos dé pistas y técnicas para identificar cómo se constituyen los kanji y qué significado tienen las formas que no paran de ser utilizadas.
@@ -64,7 +64,7 @@ Por último, este mazo te permitirá aprender a ver los kanji como distintas for
 Así que para resumir y cerrar el día, nuestra rutina sería:  
 
 - Anki: Tango n5 y rrtk (el mazo de kanjis).  
-- 2-3 vídeos de Cure Dolly (o Tae Kim).  
+- Sesión de gramática. 
 - Inmersión.  
 
 Si te apetece ver, ve. Si te apetece leer subs, lee. 1 día uno y 1 día otro sigue siendo una buena estrategia.
