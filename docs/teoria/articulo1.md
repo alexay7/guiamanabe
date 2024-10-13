@@ -23,12 +23,5 @@ Lo que puedes esperar de Manabe es que te va a enseñar a entender japonés tan 
 
 Si he logrado despertar algo en tu interior, sigue hacia delante y **学べ**！
 
-Antes de pasar al siguiente artículo, quiero informarte de que tenemos una guía de cómo deberían ser tus primeros 30 días estudiando japonés, la cual es totalmente compatible con estos artículos que se centran en la teoría. Si estás motivado, empieza ya y al acabar el día 1, continúa por aquí con la teoría. Y si no, hazlo cuando acabes estos artículos, los cuales son una lectura amena e interesante.
+Te animo a empezar cuanto antes la guía de [tus primeros treinta días con el japonés](https://guia.manabe.es/). También, a ver mis vídeos en mi canal de [YouTube](https://www.youtube.com/channel/UCxZjk0xfTzZsX5nyjaHQVmg), especialmente los relacionados con el japonés y los idiomas en general.
 
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
-  [Tus primeros 30 días estudiando japonés](../days/day1.md){.md-button .md-button--primary}
-</div>
-
-<div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
-  [Pasar al siguiente artículo](articulo2.md){.md-button .md-button--primary}
-</div>
