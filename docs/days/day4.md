@@ -7,27 +7,26 @@ El día de hoy va a consistir en:
 - Practicar kana
 - Estudiar gramática
 - Usar Anki por primera vez
-- Aprender nuevas palabras y kanjis en Anki
+- Aprender nuevas palabras en Anki
 - Configurar un teclado japonés en tu ordenador
 - Hacer tu inmersión diaria.
 
-**Vas a necesitar bastante tiempo para dejarlo todo listo** así que procura tener, por lo menos, unas 2 horas.
+**Vas a necesitar bastante tiempo para dejarlo todo listo** así que procura tener, por lo menos, unas 2 horas para poder acabar de poner todo a punto.
 En tu viaje (de sólo ida ya que jamás lo vas a dejar) vas a tener días donde te vas a dedicar a poner cosas a punto, pero vale la pena créeme. No sé por qué pero la mayoría de personas que quieren aprender japonés resulta que son todos ingenieros informáticos, con lo cual han hecho miles y miles de **recursos para que el aprendizaje sea MUY cómodo**. Es el idioma que más recursos tiene para aprender.
 
 ## Repaso de kanas
 
-**En primer lugar**: [Practica los kanas](https://renshuu.manabe.es/kanas): hasta que termines con la última tabla. Ya has repasado todas las tablas, a partir de ahora será repasarlas 10 minutos cada día hasta que no necesites repasar más.
+**En primer lugar**: [Practica los kanas](https://renshuu.manabe.es/kanas): hasta que termines con las dos últimas tabla. Ya has repasado todas las tablas, a partir de ahora será repasarlas 10 minutos cada día hasta que no necesites repasar más.
 
 ## Gramática
 
-Después, **haz tu estudio diario de gramática**. Recuerda la rutina del día anterior. 2-3 vídeos o 1-2 lecciones de Tae Kim.
+Después, **haz tu estudio diario de gramática**. Recuerda la rutina del día anterior. 1-2 vídeos o 1-2 lecciones de Tae Kim.
 
 ## Empieza Anki
 
-Ahora vamos a configurar Anki. Pero con el objetivo de ahorrarme explicarte durante horas algo, mejor mira el siguiente vídeo
-
-???+ tip "Anki: La regla #1 de Anki"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/UDUITtA1jJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Ahora vamos a configurar Anki. Anki es un programa que nos enseñará palabras para aprender todos los días, mientras nos enseñará los días siguientes palabras que ya hemos aprendido para que no las olvidemos.
+El truco está en que hay que hacer **todos los días** tu Anki, puesto que simula la curva del olvido del **cerebro**.
+Estaría muy bien que vieras el vídeo que tengo sobre Anki para que sepas bien cómo funciona.
 
 ### Instalación
 
@@ -38,7 +37,9 @@ Vamos a necesitar **un mazo de cartas** (digitales), desde Manabe os proveemos d
 
 Este mazo consiste en **1000 palabras que necesitas saber para aprobar el N5**. Pero es que además se presentan en un orden bastante peculiar, en el cual solo usa palabras que ya has visto antes para enseñarte nuevas. Con lo cual siempre te enseña sólo una palabra nueva en cada carta (hay un par de excepciones pero no pasa nada).
 
-Curiosamente las cartas del mazo son **oraciones**, no palabras. Es decir, te enseñará las palabras dentro de oraciones de ejemplo. Esto es bueno porque **las personas nos comunicamos con oraciones** y además puedes ir interiorizando también la gramática simple que se va enseñando.
+**Atención**: en este mazo vamos a ver palabras en hiragana, palabras en katakana, y palabras con kanji. Te recomiendo encarecidamente verte los vídeos en mi canal sobre cómo se forman palabras en japonés y por qué algunas cosas se escriben de una manera u otra.
+
+Volviendo al mazo, las cartas del mazo son **oraciones**, no palabras. Es decir, te enseñará las palabras dentro de oraciones de ejemplo. Esto es bueno porque **las personas nos comunicamos con oraciones** y además puedes ir interiorizando también la gramática simple que se va enseñando.
 
 ### Configuración
 
@@ -128,8 +129,8 @@ Hacer Anki es muy importante, tendremos que encontrar un hueco siempre para hace
 Y ahora una pequeña ronda de preguntas que puedas tener:
 
 - **P: ¿Debo preocuparme si olvido mucho?**  
-   R: No. Anki está hecho para cosas que es probable que olvides. Es muy probable que olvides palabras de un idioma que acabas de empezar a aprender. No sería raro que olvidaras más de la mitad de lo que estudias cada día, **no te ralles**. Simplemente constancia y todo saldrá bien. Hay muchas posibilidades de que olvides estas palabras sin Anki, por eso necesitas seguir usándolo para que, finalmente, puedas aprenderte la palabra.  
-   En otras palabras, sigue haciendo Anki. Si esto continúa por un tiempo, entonces es posible que debas reflexionar sobre tu método de hacer Anki.
+   R: No. Anki está hecho para cosas que es probable que olvides. Es muy probable que olvides palabras de un idioma que acabas de empezar a aprender. No sería raro que olvidaras más de la mitad de lo que estudias cada día, **no te preocupes**. Simplemente **constancia** y todo saldrá bien. Hay muchas posibilidades de que olvides estas palabras sin Anki, por eso necesitas seguir usándolo para que, finalmente, puedas adquirir la palabra.  
+Olvidar mucho sería no acordarte de la mitad de tus repasos, por ejemplo. Lo cual equivale a una retención de un 50%. Si te olvidas de un 20-25%, es normal. 
 - **P: Sanguijuelas (Palabras que no se te quedan)**  
   Las sanguijuelas es el término que se le da a las palabras que sigues olvidando una y otra vez. La memoria funciona recogiendo pistas. Cuando las palabras no se adhieren o no se nos quedan significa que hay varios puntos en el ámbito más amplio de la palabra que hacen que tu mente no esté recogiendo ninguna pista.  
   En términos más fáciles de entender, necesitas más o diferente información que la que hay en la tarjeta. Es decir, si no la aprendes ahora no te preocupes, que más adelante la aprenderás. Si te salen alguna que otra sanguijuela al cabo del tiempo, no importa, de verdad.
