@@ -1,17 +1,15 @@
 # Día 1
 
 ## Fundamentos del japonés
-El japonés se compone de **kanjis** (símbolos importados del chino clásico) y de **los silabarios**.  
+El japonés se compone de **silabarios** (hiragana y katakana), a los cuales llamaremos kanas; y de **kanjis** (símbolos importados del chino clásico). 
 Los kanjis por ahora no deberían preocuparte, pero se leen mediante los silabarios también. Así que si desmenuzamos el idioma, podríamos entender y saber japonés sólo conociendo los silabarios, pero en la práctica es más difícil.
 
 En el japonés, en lugar de letras y vocales, **existen sílabas y vocales**. Las vocales son a i u e o (sí, en este orden), y las sílabas se componen de estas vocales y sus contracciones, pero no te preocupes porque no es difícil. 
 
-Existen dos tipos de silabarios, el **hiragana** y el **katakana**. En corto, la gente se refiere a los silabarios como los kanas.
+El **hiragana se usa para las palabras japonesas** que vienen del protojaponés, mientras que el katakana se usa para las **palabras nuevas que los japoneses adaptan de otros idiomas**. Tu nombre en japonés se escribiría en katakana, mientras que uno en japonés, se podría escribir en hiragana (aunque de normal se escriben en kanji, aunque no siempre).
 
-El **hiragana se usa para las palabras japonesas** que vienen del protojaponés, mientras que el katakana se usa para las **palabras nuevas que los japoneses adaptan de otros idiomas**. Tu nombre en japonés se escribiría en katakana, mientras que uno en japonés, se podría escribir en hiragana (aunque de normal se escriben en kanji).
-
-Por último, la mitad del silabario son sílabas sordas y el resto son sílabas sonoras. Ka pasa a ga, sa pasa a za, ha (leído ja) pasa a ba, etc.
-No necesitas saber más, así que pasamos a la práctica.
+Por último, la mitad del silabario son sílabas **sordas** y el resto son sílabas **sonoras**. Ka pasa a ga, sa pasa a za, ha (leído ja) pasa a ba, etc.
+No necesitas saber más, así que pasamos a la **práctica**.
 
 ## Conociendo los silabarios
 Vamos a aprender los silabarios por fuerza bruta, ya que es la mejor técnica. Hay gente que en 2 horas ya los medio domina, mientras que a otros les toma más tiempo. No es problema porque te vas a hartar a verlos.
@@ -26,7 +24,7 @@ Después de 10 minutos **tómate un pequeño descanso** de otros 10 minutos. Inv
 
 Vas a estar con intervalos de diez minutos hasta que acabes con toda la tabla del hiragana (esto incluye las cuatro categorías dentro de la pestaña de Hiragana). 
 
-Cuando acabes, puedes dejar el drill por hoy.
+Cuando acabes, puedes dejar el drill (a esto de escribir constantemente en el recuadro es a lo que se le llama drill de normal) por hoy.
 
 ## Extras
 ???+ tip "Más información sobre los silabarios"
