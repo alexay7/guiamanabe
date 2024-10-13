@@ -1,13 +1,12 @@
 #Introducción al japonés
 
-Hola,  
-Estás en el sitio adecuado si quieres **aprender japonés**. Esta guía te servirá para coger hábitos, disciplina y **te enseñará a ser autodidacta**. Se va a centrar en el cómo y no en el porqué. Vas a aprender por tu cuenta **sin la necesidad de gastarte ni un euro en clases, libros y demás**.
+Bienvenido a la guía de tus primeros 30 días aprendiendo japonés. Esta guía está totalmente orientada **a la parte práctica**. Se basará en mejorar dos habilidades que nos llevarán a la fluidez:
+- Habilidad de estudio y de mejorar nuestro conocimiento en el idioma, a la cual nos referiremos como estudio.
+- Habilidad de inmersión y de adquirir el idioma poco a poco consumiendo contenido japonés, a la cual llamaremos habilidad.
 
 ##Guía de los primeros 30 días
 !!! note "Preámbulo"
-    Versión editada de la guía UsagiSpoon presente en [TheMoeWay](https://learnjapanese.moe/routine/). El mérito y el trabajo también es de ellos, y si quieres agradecérselo, no dudes en hacerlo.
-
-La guía se basa en la **guía de 30 días de TheMoeWay**, pero está editada por mí, después de sacarme el N1 en 2 años usando la metodología de aprender mediante la inmersión en contenido japonés. No es que no me fíe de lo que ponga en TheMoeWay, pero está redactado de una manera bastante cuestionable, y no comparto algunas cosas de la misma guía.
+    Si quieres entender por qué se recomienda seguir estos pasos y empaparte de la teoría o profundizar en los conceptos, te recomiendo encarecidamente, al mismo tiempo que empiezas esta guía y procedes con el primer día, ver mis vídeos en [YouTube](https://www.youtube.com/channel/UCxZjk0xfTzZsX5nyjaHQVmg) de idiomas y japonés en concreto. 
 
 <!-- ??? question "TO-DO"
     Si quieres saber en qué se basa el método de la inmersión y por qué funciona, pincha aquí. Soon.
@@ -16,9 +15,10 @@ La guía se basa en la **guía de 30 días de TheMoeWay**, pero está editada po
 
     Si no quieres saber nada de eso, no pasa nada, sigue hacia delante. -->
 
-Esta guía tiene una duración de 30 días. Pero tu estudio va a durar años. Tenlo en cuenta y piensa en lo que conlleva.
+Esta guía tiene una duración de 30 días. Pero tu viaje hacia la fluidez va a durar **años**. Si eres bueno y te aplicas mucho, un año. Si no tienes tanto tiempo, por lo menos dos. 
+Tenlo en cuenta y piensa en lo que **conlleva**. Por mirar el lado positivo, ten en cuenta que disfrutarás del japonés **desde el principio**.
 
-Se basa en pasos a seguir para conseguir empezar con buen pie. Lo que puedes esperar de la guía es:
+Lo que puedes esperar de la guía es lo siguiente:
 
 - Un vocabulario de al menos **500 palabras**.
 - Comprensión de **frases básicas** que aparecen en anime, manga y demás.
@@ -28,7 +28,7 @@ Se basa en pasos a seguir para conseguir empezar con buen pie. Lo que puedes esp
 Lo único que se espera de ti:
 
 - **Motivación** para aprender.
-- **Disciplina**.
+- **Disciplina**. En YouTube pienso subir vídeos sobre el tema.
 - Por lo menos **2 horas de tu tiempo libre** al día para el japonés. De dedicación plena, estando concentrado. No hay límite superior de horas. Cuanto más, mejor.
 - Un ordenador o un portátil. En móvil y tablets también se puede, pero vas a necesitar un ordenador al principio para configurar bastantes cosas.
 
