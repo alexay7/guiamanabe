@@ -1,8 +1,9 @@
 #Introducción al japonés
 
 Bienvenido a la guía de tus primeros 30 días aprendiendo japonés. Esta guía está totalmente orientada **a la parte práctica**. Se basará en mejorar dos habilidades que nos llevarán a la fluidez:
-- Habilidad de estudio y de mejorar nuestro conocimiento en el idioma, a la cual nos referiremos como estudio.
-- Habilidad de inmersión y de adquirir el idioma poco a poco consumiendo contenido japonés, a la cual llamaremos habilidad.
+
+- Habilidad de estudio y de mejorar nuestro **conocimiento en el idioma**, a la cual nos referiremos como **estudio**.
+- Habilidad de **inmersión y de adquirir el idioma** poco a poco consumiendo contenido japonés, a la cual llamaremos **habilidad**.
 
 ##Guía de los primeros 30 días
 !!! note "Preámbulo"
@@ -15,7 +16,7 @@ Bienvenido a la guía de tus primeros 30 días aprendiendo japonés. Esta guía 
 
     Si no quieres saber nada de eso, no pasa nada, sigue hacia delante. -->
 
-Esta guía tiene una duración de 30 días. Pero tu viaje hacia la fluidez va a durar **años**. Si eres bueno y te aplicas mucho, un año. Si no tienes tanto tiempo, por lo menos dos. 
+Esta guía tiene una duración de **30 días**. Pero tu viaje hacia la fluidez va a durar **años**. Si eres bueno y te aplicas mucho, un año. Si no tienes tanto tiempo, por lo menos dos. 
 Tenlo en cuenta y piensa en lo que **conlleva**. Por mirar el lado positivo, ten en cuenta que disfrutarás del japonés **desde el principio**.
 
 Lo que puedes esperar de la guía es lo siguiente:
