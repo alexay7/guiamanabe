@@ -10,9 +10,9 @@ Primero, practica los kanas durante 10 minutos. Voy a dejar de poner los enlaces
 Después de eso, pasa a hacer tu Anki. Primero las reviews y luego las nuevas.
 
 ## Gramática
-Después de tu Anki, haz tu sesión de gramática. Dos o tres vídeos de Cure Dolly, o Tae Kim, como tú elegiste.
+Después de tu Anki, haz tu sesión de gramática.
 
-Esta primera fase debería haberse convertido ya en rutina. Tu día a día con el japonés empieza así, y **está MUY centrado en el estudio casi directo del idioma**. Recuerda, que este estudio NO te va a dar habilidad con el idioma. La habilidad viene con la inmersión. Por mucho que estudies, por mucho que hagas Anki, por mucho que practiques los Kanas, si no saltas a inmersar no vas a entender el japonés. (Recuerda la analogía de: por mucho que leas un libro sobre cómo nadar, hasta que no te lances a la piscina no vas a saber nadar).
+Esta primera fase debería haberse convertido ya en rutina. Tu día a día con el japonés empieza así, y **está MUY centrado en el estudio casi directo del idioma**. Recuerda, que este estudio NO te va a dar habilidad con el idioma. La habilidad viene con la inmersión. Por mucho que estudies, por mucho que hagas Anki, por mucho que practiques los Kanas, si no saltas a inmersar** no vas a entender el japonés**. (Recuerda la analogía de: por mucho que leas un libro sobre cómo nadar, hasta que no te lances a la piscina no vas a saber nadar).
 
 ## Inmersión
 Vamos a empezar a hacer la inmersión más divertida.  
@@ -91,59 +91,67 @@ En primer lugar necesitaremos **Yomitan**. Yomitan es una extensión de nuestro 
     ![Fuentes](image-15.png)
 
 ### ASBPlayer
-Una vez instalado Yomitan, utilizaremos ASBPlayer para poder incrustar subtítulos a nuestros vídeos. Además lo bueno de ASBPlayer es que puedes usar vídeos online, lo cual es la hostia.
+Una vez instalado Yomitan, utilizaremos ASBPlayer para poder incrustar subtítulos a nuestros vídeos. Además lo bueno de ASBPlayer es que puedes usar vídeos online, lo cual es genial.
 
-Bien, para instalarlo hacemos click [aquí](https://github.com/killergerbah/asbplayer/releases)  
-Una vez ahí, veréis un enlace donde podremos descargar la versión actual, es el enlace que está subrayado en azul. Para ver el enlace hay que bajar un poco a la sección de **Installation**.
-
-Una vez descargado, lo descromprimiremos en una carpeta de nuestro PC. Recordad donde lo ponéis, yo lo he descomprimido en una carpeta que se llama ASBPlayer en mi unidad C.
-
-Ahora iremos a **chrome://extensions** o **edge://extensions** (según el navegador que queráis usar) y activaremos el modo para desarrolladores (mismo proceso que con Yomitan). Una vez hecho eso, le daremos a **cargar desempaquetado** y ahí elegiremos la carpeta en la que descomprimimos el archivo descargado anteriormente (La mía es ASBPlayer). Una vez hecho eso, reiniciamos nuestro navegador y voilà. Ya tenemos el reproductor listo.
-
+???+ note "Instalación de ASBPlayer"
+    #### Navegadores basados en Chromium (Google Chrome)
+    ##### 1. Descarga la extensión
+    1. Entra en [esta página](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab) e instala la extensión como lo harías con cualquier otra.
+    
 Ahora sólo necesitamos dos cosas. Un vídeo que ver y unos subtítulos.  
-Para vídeos tenemos la web de [Aniwatch](https://aniwatch.to/tv). Esta web tiene todo lo que vayas a necesitar, pero puede que valga también alguna otra que conozcas. Yo uso esta porque permite quitar los subtítulos en inglés que vienen con el vídeo, y dejarlo sin subtítulos (los cuales añadiremos nosotros con ASBPlayer). 
+Para vídeos tenemos la web de [HiAnime](https://hianime.to/). Esta web tiene todo lo que vayas a necesitar, pero puede que valga también alguna otra que conozcas. Yo uso esta porque permite quitar los subtítulos en inglés que vienen con el vídeo, y dejarlo sin subtítulos (los cuales añadiremos nosotros con ASBPlayer). 
 
 Por ejemplo, yo voy a buscar "One Piece" y pondré el capítulo 1.
 
 Ahora buscaré mis subtítulos. Los subtítulos los deberías poder encontrar en [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F). Bajamos hasta encontrar "One Piece" (podéis hacer **ctrl+f** para buscar). Descargamos el primer capítulo, o algún pack de subtítulos, y descomprimimos en algún lugar de nuestro ordenador. En mi caso he bajado [este archivo](https://kitsunekko.net/subtitles/japanese/One_Piece/(Prime%20Video)%20%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9.S01%20(0001-0130).zip) que contiene un pack con los subtítulos de los primeros 130 capítulos.
 
-Una vez abierto el capítulo en cuestión, arrastramos a la ventana del reproductor de vídeo de la página web el archivo .srt de subtítulos del primer capítulo y vemos si es adecuado. Nos deberá de abrir otra pestaña, con todos los subtítulos cargados.
+Una vez abierto el capítulo en cuestión, sólo falta activar la extensión ASBPlayer en la ventana de HiAnime. Para eso pincharemos en la aplicación arriba al lado de la barra de búsqueda de nuestro navegador (puede que esté donde el botón del puzzle) y le daremos a abrir panel lateral (Open side panel).
 
-En mi caso está ocurriendo una cosa bastante común que seguramente os pase con muchos otros animes, y es que ¡los subtítulos están desincronizados! Pero es muy fácil sincronizarlos.
+Tendremos que cargar los subtítulos (Load subtitles). Tenemos que recordar dónde los hemos guardado, y los seleccionaremos. 
 
-Vamos a hacer lo siguiente: cubriendo la mitad pantalla pondremos el capítulo de one piece. Al otro lado pondremos la ventana con los subtítulos, así en la pantalla sólo veremos el vídeo y el historial de subtítulos. Según reproduzcamos vamos a ver que hay una voz que habla, pero que los subtítulos no avanzan. De hecho si nos fijamos, vemos que los subtítulos salen en el segundo 17 del archivo de subtítulos, sin embargo, la voz aparece a los dos segundos de iniciar el vídeo, con lo cual tendremos que retrasar 15 segundos el archivo de los subtítulos para que vayan a la par. 
+Te explico rápidamente lo que estás viendo aquí.
+En primer lugar, tenemos el vídeo, pausado en el 0:00. Lo amarillo abajo en la barrita es el opening y el ending, los cuales si quieres ver, te recomiendo tener marcada la opción en la web de HiAnime de "Auto Skip Intro Off".
 
-¿Cómo hacerlo? Muy fácil, en la pestaña donde aparecen todos los subtítulos vemos que abajo hay un símbolo de más (+) y otro menos (-) para poder rectificar los subtítulos. Escribimos "-15", le damos a **enter** y volvemos a iniciar el vídeo.
+Lo que está a la derecha son todas las líneas de subtítulo. Si los subtítulos están totalmente sincronizados con el anime en cuestión, los segundos que aparecen a la derecha serán los segundos en los cuales se habla en el anime.
 
-![ASBPlayer offset](image-5.png)
+He elegido esta combinación de anime y subtítulos porque no están sincronizados, pero quiero enseñarte a poder hacerlo, así te valdrán todos los subtítulos que te encuentres por ahí. Con ASBPlayer es bastante fácil.
 
-Así estaría perfecto.  
-Seguramente para todos los capítulos de Aniwatch necesitaremos ajustar a -15 los subtítulos, lo cual no es problema una vez le cogemos el truco. Nadie dijo estudiar japonés fuera fácil 😉.
+Si leemos bien en la barra de la derecha, vemos que la primera línea de subtítulo empieza en el segundo 17,727. Eso significa que nuestros subtítulos están programados para empezar a salir a partir de ese segundo.
 
-Una vez sincronizados, podemos usar Yomitan y leer todas las palabras que van apareciendo en los subtítulos dentro de la misma ventana del vídeo. No necesitamos la otra ventana para nada, de hecho la podemos cerrar.
+Si le damos al play al vídeo veremos que en realidad, se empieza a hablar en el segundo 2.8 más o menos. Esto significa que tenemos unos subtítulos adelantados unos 15 segundos (17.727-2.8). 
+
+Si abrimos de nuevo la extensión de ASBPlayer arriba a la derecha de la barra de búsqueda, veremos que sale un menú. En él podemos pincharemos a Keyboard Shortcuts (accesos directos).
+
+Bajaremos hasta que veamos "Adjust subtitle offset so that next subtitle is at current timestamp". Vemos que pone ctrl+right (mantener pulsado el botón ctrl y pulsar derecha, en las 4 flechitas que tiene nuestro teclado). Si tu teclado no los tiene porque es minimalista, cambia el acceso directo a ctrl + otra cosa. 
+
+Este shortcut lo que indica es que si estamos en el mismo momento en el vídeo en el que empieza la primera persona/narrador a hablar, y pausamos y le damos ctrl + →, fijaremos la primera línea de subtítulo a este momento.
+
+Y si le doy al play en el vídeo, veré que los subtítulos están sincronizados. Como podéis observar, ahora los subtítulos salen más o menos según se habla. Si entrenamos esta habilidad seremos capaces ajustar todos los subtítulos que nos encontremos.
+
+Si por lo que fuera es al revés, que los subtítulos empiezan antes que la voz, podemos hacerlo con ctrl + ←, pero es un poco más complicado si son varios subtítulos los que van por detrás. En ese caso os recomiendo los siguientes comandos e ir yendo por centésimas de segundo hasta que cuadremos los subtítulos:
+Ctrl + shift + izquierda
+Ctrl + shift + derecha
+
+Estos comandos mueven los subtítulos 0,1 segundos cada vez que los pulsamos. Si salen antes, tendremos que mover a la derecha. Si salen después, mover a la izquierda. Habrá que pulsar unas cuantas veces (si son 15 segundos, pues 150 veces, pero se puede mantener pulsado).
+
+Una vez sincronizados, podemos usar Yomitan y leer todas las palabras que van apareciendo en los subtítulos dentro de la misma ventana del vídeo, la ventana de la derecha la podemos cerrar.
 
 ### ¿Cómo se "lee" un anime?
 Bien, ahora que estamos listos, ¿cuál sería la manera de proceder con este tipo de inmersión?  
-Vale, aquí os puedo decir dos maneras de hacerlo.
 
-- La primera es ver el anime con **los subtítulos en la pantalla**, intentando seguir con los ojos TODO lo que se está diciendo. Lógicamente aparecerán un montón de kanjis de los cuales no conoceréis su lectura, pero vais a ver un montón de hiragana y un montón de katakana, con lo cual os permitirá asociar sonidos de palabras con el silabario.
+- Tendremos que ver el anime con **los subtítulos en la pantalla**, intentando seguir con los ojos TODO lo que se está diciendo. Lógicamente aparecerán un montón de kanjis de los cuales no conoceréis su lectura, pero vais a ver un montón de hiragana y un montón de katakana, **con lo cual os permitirá asociar sonidos de palabras con el silabario**.
 
 - Podéis, además, utilizar Yomitan para ver el significado de alguna palabra que os haya llamado la atención. ¿Sois capaces de entender alguna frase? ¿Sois capaces de medio entender alguna frase sencillita si pausáis el vídeo y comprobáis el significado de alguna palabra?
 
-Pero no os recomiendo mirar más de 20-30 palabras durante todo el anime, tenemos que ver más cosas para poder seguir exponiéndonos al japonés.
+No os recomiendo mirar más de 30 palabras durante todo el anime, tenemos que ver más cosas para poder seguir exponiéndonos al japonés. Cuanto más pausemos, más tedioso se volverá y no queremos que nos aburra la inmersión.
 
-Una vez visto el capítulo, podéis repasar y hacer un ejercicio de lectura volviendo a abrir (arrastrando los subtitulos al vídeo) la pantalla secundaria que sale con la lista de subtítulos, y dedicandoos a leer TODO el rato esa pantalla mientras hablan los personajes.
-
-Yo sólo seguí la primera manera debido a que me parecía algo aburrido rever capítulos dos veces siempre, pero no me parece para nada un mal repasar el capítulo e ir leyendo todo ya que, al haberlo visto una vez, tenemos un contexto primordial para ir entendiendo cositas.
-
-Os lo dejo a vuestra elección. A este tipo de inmersión la vamos a llamar **leer subtítulos**. Y es una inmersión basada principalmente en la lectura, pues tiramos mucho de los subtítulos para entender las cosas. Este tipo de inmersión os valdrá bastante porque os permitirá, durante mucho tiempo, comprobar el significado de las palabras y en el futuro hacer cartas en Anki.
+A este tipo de inmersión la vamos a llamar **leer subtítulos**. Y es una inmersión basada principalmente en la lectura, pues tiramos mucho de los subtítulos para entender las cosas. Este tipo de inmersión os valdrá bastante porque os permitirá, durante mucho tiempo, comprobar el significado de las palabras y en el futuro hacer cartas en Anki.
 
 Recomiendo además seguir con el mismo anime durante un tiempo, ya que las palabras se repiten bastante, y las entenderemos mejor que cambiando de animes. 
 
-Intentad cada día leer por lo menos un capítulo de lectura y ver un capítulo sin nada de subtítulos, centrándonos en los sonidos y las palabras, intentando reconocer cosas sin parar. Un capítulo al día de cada está bien para empezar, si tenemos mucho tiempo, tres capítulos de lectura y otros tres sin subs también estaría bien, pero no nos quememos. 
+Intentad cada día leer por lo menos un capítulo con subtítulos y ver un capítulo sin nada de subtítulos, centrándonos en los sonidos y las palabras, intentando reconocer cosas sin parar. Un capítulo al día de cada está bien para empezar, si tenemos mucho tiempo, tres capítulos de lectura y otros tres sin subs también estaría bien. 
 
-El método del **tutor de los subtítulos** ([El visto durante el día 2](day2.md)) lo podemos sustituir por este, ya no es necesario y realmente se trataba de un pequeño aliciente para acostumbrarnos a inmersar. 
-
+Ver anime con subtítulos en nuestro propio idioma o en inglés si lo domináis, ya no tiene mucho sentido. Podéis olvidaros de esta manera de inmersar si lo que queréis es entender cada vez más japonés, o podéis seguir viendo de vez en cuando. En nuestro servidor hay gente que ha conseguido la fluidez y el N1 de ambas maneras. Pero una cosa os diré: NUNCA OS SENTIRÉIS LISTOS PARA INMERSAR EN JAPONÉS, con lo cual cuanto antes nos acostumbremos, mejor.
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
   [Pasar al día 7](day7.md){.md-button .md-button--primary}
