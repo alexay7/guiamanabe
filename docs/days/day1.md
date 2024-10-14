@@ -8,7 +8,7 @@ En el japonés, en lugar de letras y vocales, **existen sílabas y vocales**. La
 
 El **hiragana se usa para las palabras japonesas** que vienen del protojaponés, mientras que el katakana se usa para las **palabras nuevas que los japoneses adaptan de otros idiomas**. Tu nombre en japonés se escribiría en katakana, mientras que uno en japonés, se podría escribir en hiragana (aunque de normal se escriben en kanji, aunque no siempre).
 
-Por último, la mitad del silabario son sílabas **sordas** y el resto son sílabas **sonoras**. Ka pasa a ga, sa pasa a za, ha (leído ja) pasa a ba, etc. Para indicar ñas sonoras los japoneses utilizan dos rayitas al lado del símbolo en cuestión, el cual recibe el nombre de dakuten. 
+Por último, la mitad del silabario son sílabas **sordas** y el resto son sílabas **sonoras**. Ka pasa a ga, sa pasa a za, ha (leído ja) pasa a ba, etc. Para indicar las sonoras los japoneses utilizan dos rayitas al lado del símbolo en cuestión, el cual recibe el nombre de dakuten. 
 No necesitas saber más, así que pasamos a la **práctica**.
 
 ## Conociendo los silabarios
