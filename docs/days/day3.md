@@ -15,7 +15,7 @@ Con la gramática japonesa pasa una cosa muy interesante, y es que se enseña fa
 
 Por si no fuera poco, las que son decentes pecan de otros problemas como por ejemplo un acento terrible cuando se dicen palabras en japonés (si se trata de vídeos), voz de persona mayor con cara de v-tuber (sí, así es, y en general es de las menos malas guías que existen), o libros enteros escritos en nuestro abecedario porque la gente que los lee no sabe leer **ni una palabra** en ひらがな. Llegados a este punto deberías ser capaz de leer esta última palabra, aunque te cueste un poco.
 
-Siendo españoles, lamentablemente hay una única opción en español para entender conceptos de gramática, y es la de la guía de Tae Kim.
+Siendo hispanohablantes, lamentablemente hay una única opción en español para entender conceptos de gramática, y es la de la guía de Tae Kim.
 Está en mi mano crear la mejor guía de japonés sobre cómo entender japonés de verdad, pero estoy construyéndola poco a poco y puede que me falten muchísimas cosas por subir. Prometo completarla semana a semana. Visita mi [canal](https://www.youtube.com/channel/UCxZjk0xfTzZsX5nyjaHQVmg) y suscríbete para estar al tanto.
 
 #### Leer la guía de Tae Kim
