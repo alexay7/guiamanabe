@@ -39,6 +39,8 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 - [Hougen](https://hougen.u-biq.org/japanese.html) Página donde puedes ver los diferentes dialectos que existen en Japón y las expresiones que se usan en cada uno.
 
 - [Sushi-DA](https://sushida.net/play.html) Juego de velocidad de escritura.
+  
+- [Cure Dolly Script](https://kellenok.github.io/cure-script/) Transcripción a texto de los vídeos de gramática de Cure Dolly en forma de página web con formato en markdown para facilitar su lectura y comprensión.
 
 ## Diccionarios para Yomitan
 
