@@ -35,20 +35,12 @@ pip install owocr
 ### 3. Instalar un modelo de OCR
 OwOCR tiene una buena cantidad de modelos de OCR disponibles para funcionar, en esta guía solo voy a explicar los que recomiendo, pero si tienes curiosidad por los demás puedes verlos en su [github oficial](https://github.com/AuroraWright/owocr?tab=readme-ov-file#local-providers){:target="_blank"}. A continuación explicaré las diferentes opciones que puedes elegir utilizar según con lo que cuentes:
 
-??? info "Windows 11"
-    Si tienes windows 11 deberías utilizar OneOCR, es el modelo que utiliza Windows para su herramienta de recortes y el que mejor funciona en este caso. Para configurarlo para owocr simplemente deberás instalar el módulo de OneOCR para OwOCR con el siguiente comando:
-    ```bash
-    pip install owocr[oneocr]
-    ```
-    
-    Al igual que antes, podrás saber si se ha instalado correctamente porque volverá a salir el cursor y habrá mucho texto blanco. Si no es así revisa el error que te da y asegúrate de que tienes Python instalado correctamente y que pip está en la variable de entorno PATH.
-
-??? info "Windows 10"
-    Si tienes cariño a Windows 10 y por ello todavía no has actualizado a Windows 11 pese a que el soporte de Windows 10 acaba este 2025, puedes seguir utilizando el modelo explicado para Windows 11, pero antes de ello deberás descargar algunos archivos necesarios.
+??? info "Windows (10 o superior)"
+    Si tienes un entorno windows deberías utilizar OneOCR, es el modelo que utiliza Windows para su herramienta de recortes y el que mejor funciona en este caso. Para configurarlo para owocr simplemente deberás instalar el módulo de OneOCR para OwOCR con el siguiente comando, pero antes de ello deberás descargar algunos archivos necesarios.
     
     - Estos archivos que necesitas están contenidos en la herramienta de recortes de Windows 11 así que deberás descargarla y extraer lo que necesitas de ella.
     
-      - Puedes descargarla, por ejemplo, en [esta página web](https://store.rg-adguard.net/){:target="_blank"} utilizando el link de la app que es `https://apps.microsoft.com/detail/9mz95kl8mr0l` y la opción de Fast, de los resultados que te dé deberás descargar el archivo con extensión .msixbundle más reciente que haya.
+      - Puedes descargarla, por ejemplo, en [esta página web](https://store.rg-adguard.net/){:target="_blank"} utilizando el link de la app que es `https://apps.microsoft.com/detail/9mz95kl8mr0l` y la opción de Fast, de los resultados que te dé deberás descargar el archivo con extensión .msixbundle más reciente que haya, es decir, el que tenga el número de versión más alto.
     
       - Una vez lo descargues deberás reemplazar la extensión .msixbundle por .zip y extraer sus contenidos, dentro podrás encontrar varios archivos con extensión .msix, encuentra el que no contenga el texto "language" y coincida con la arquitectura de tu windows (si no sabes cuál es, probablemente es x64). De la misma forma que has hecho con el otro archivo, reemplaza la extensión .msix de este archivo por .zip y extrae su contenido.
     
@@ -73,7 +65,7 @@ OwOCR tiene una buena cantidad de modelos de OCR disponibles para funcionar, en 
     La desventaja de este método es que al ser un modelo en la nube, necesitarás conexión a internet para utilizarlo y puede que tarde un poco más en procesar las imágenes. En caso de que tu ordenador sea antiguo puede ser que este método sea más rápido que los demás, ya que no tendrás que utilizar la GPU de tu ordenador para procesar las imágenes.
 
 ### 4. Configurar OwOCR
-Ya lo tienes todo listo para utilizar el OCR, lo único que falta es preparar los ajustes para que funcione como tú quieres que lo haga, estos ajustes se pueden modificar en el archivo de configuración que está en la carpeta de configuración de OwOCR, que se encuentra en `C:\Users\tu_usuario\\.config\owocr_config.ini`. Ábrelo con tu editor de textos favorito y ahora te digo qué opciones son las que te importan, todos los ajustes de este archivo de configuración tienen un ";" al principio que sirve para desactivarlos **recuerda quitar el punto y coma de todos los que modifiques**.
+Ya lo tienes todo listo para utilizar el OCR, lo único que falta es preparar los ajustes para que funcione como tú quieres que lo haga, estos ajustes se pueden modificar en el archivo de configuración que está en la carpeta de configuración de OwOCR, que se encuentra en `C:\Users\tu_usuario\\.config\owocr_config.ini` si no existe este archivo, ejecuta el comando `owocr` en la terminal y ciérralo (tecla 'q') para que se genere automáticamente. Ábrelo con tu editor de textos favorito y ahora te digo qué opciones son las que te importan, todos los ajustes de este archivo de configuración tienen un ";" al principio que sirve para desactivarlos **recuerda quitar el punto y coma de todos los que modifiques**.
 
 - La primera decisión que tienes que tomar es el **<u>modelo que quieres usar</u>**, en la segunda línea tienes una lista con todos los modelos disponibles, copia el alias del que hayas instalado en el paso anterior y ponlo en la siguiente línea que debería decir `;engine = `, pon el alias después del igual y **quítale el punto y coma del principio**.
 
