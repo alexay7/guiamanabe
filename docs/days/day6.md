@@ -36,7 +36,7 @@ En primer lugar necesitaremos **Yomitan**. Yomitan es una extensión de nuestro 
 
       - [JMdict Español](https://github.com/MarvNC/jmdict-yomitan/releases/latest/download/JMdict_spanish.zip)
       - [JMdict Inglés](https://github.com/themoeway/jmdict-yomitan/releases/latest/download/JMdict_english.zip)
-      - [Diccionario de frecuencia](https://drive.google.com/file/d/13dbte_pabqDKvL5ASkc0xAec1ryVaVa5/view?usp=sharing)
+      - [Diccionario de frecuencia](https://github.com/Kuuuube/yomitan-dictionaries)
       - [Diccionario de pitch accent](https://drive.google.com/file/d/13k9ULY7lQ5t-WQBTiYeGSlTfGtQojCRq/view?usp=sharing)
       - [Nivel JLPT](https://github.com/stephenmk/yomichan-jlpt-vocab/releases/tag/rev.JLPT%3B2022-01-30)
 
