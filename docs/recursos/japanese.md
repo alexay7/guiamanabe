@@ -52,7 +52,7 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
 
 - [Nivel JLPT](https://github.com/stephenmk/yomichan-jlpt-vocab/releases/tag/rev.JLPT%3B2022-01-30) Diccionario que contiene el nivel de JLPT de las palabras.
 
-- [Frecuencia JPDB](https://github.com/MarvNC/jpdb-freq-list/releases/tag/2022-05-09) Diccionario que contiene la frecuencia de las palabras en JPDB.
+- [Frecuencia JPDB](https://github.com/Kuuuube/yomitan-dictionaries) Diccionario que contiene la frecuencia de las palabras en JPDB.
 
 ## Descargas varias
 
