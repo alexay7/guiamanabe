@@ -75,6 +75,18 @@ body {
 .md-sidebar__scrollwrap {
   max-height: 580px;
   border-radius: 16px;
+  scrollbar-width: thin;
+  scrollbar-color: #00c18a transparent;
+  padding-right: 0.5rem;
+}
+
+.md-header{
+  display: flex;
+  align-items: center;
+}
+
+.md-header__inner{
+  width:inherit;
 }
 
 .md-nav__title {
@@ -107,6 +119,10 @@ body {
 .md-icon svg {
   height: inherit;
   width: inherit;
+}
+
+.md-search{
+    margin-left: 10px;
 }
 
 .md-search__icon {

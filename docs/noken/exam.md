@@ -293,6 +293,4 @@ La primera parte te hará una pregunta general sobre la conversación, generalme
 En la segunda parte normalmente te comparan múltiples cosas de las dos conversaciones y te preguntan cosas como "¿Qué piensa la persona A sobre X?" o "¿Qué producto prefiere la persona B?".
 
 ## ¡Quiero practicar!
-Hemos desarrollado una web con ejercicios basados en exámenes anteriores del Noken de todos los niveles, puedes acceder a ella [dando click aquí](https://renshuu.manabe.es/).
-
-Esta página solo contiene ejercicios sobre la primera parte del examen (vocabulario y gramática), si quieres practicar las otras dos secciones te recomiendo que busques exámenes anteriores en internet y los hagas, en YouTube hay algún que otro vídeo con exámenes completos resueltos.
+Hemos desarrollado una web con ejercicios basados en exámenes anteriores del Noken de todos los niveles, puedes acceder a ella [dando click aquí](https://jlpt.manabe.es/).

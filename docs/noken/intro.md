@@ -6,7 +6,7 @@ Si has estudiado otros idiomas, sabrás que existen ciertas certificaciones para
 
 Este examen se divide en 5 niveles, siendo el N5 el más básico y el N1 el más avanzado, es un examen que se tiene bastante en cuenta para cosas como procesos de selección de personal en Japón o becas como puede ser la MEXT.
 
-!!! note "Dónde puedo presentarme"
+!!! note "¿Dónde puedo presentarme?"
     Puede ser que hayas dado por hecho que este examen solo se puede hacer en Japón o en sitios muy señalados, pero la verdad es que puedes presentarte en más de 90 países. Según en que país vivas se harán dos convocatorias (una en julio y otra en diciembre) o una sola. Puedes consultarlo [en esta lista de sedes](https://www.jlpt.jp/e/application/overseas_list.html).
 
 ## Contenidos del examen
