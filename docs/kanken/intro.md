@@ -32,11 +32,11 @@ En la guía sobre el Noken si destaqué que el examen se tenía en cuenta para a
     Al no haber realizado yo mismo al examen de forma oficial lo único que puedo hacer es redirigirte a la [página oficial del Kanken](https://www.kanken.or.jp/kanken/individual/pbt/venue/overseas.html) donde podrás encontrar información sobre las sedes en el extranjero y los procedimientos para inscribirte. También existe un **modelo online** del cual puedes encontrar información [en esta página](https://www.kanken.or.jp/kanken/individual/kanken-online/) y que puedes hacer desde cualquier parte del mundo
 
 ## Contenidos del examen
-El examen puede durar **40 minutos** (10級, 9級, 8級) o **60 minutos** (el resto de niveles) siendo considerablemente más corto que el Noken y no se divide por partes. Las preguntas varían de forma considerable de un nivel a otro, esto será tratado en detalle en la siguiente página, pero a modo de resumen podemos decir que los contenidos principales del examen son:
-- Lectura de palabras
-- Trazos/componentes de kanjis
-- Sinónimos y antónimos de palabras
-- Composición de jukugos
+El examen puede durar **40 minutos** (10級, 9級, 8級) o **60 minutos** (el resto de niveles) siendo considerablemente más corto que el Noken y no se divide por partes. Las preguntas varían de forma considerable de un nivel a otro, esto será tratado en detalle en la siguiente página, pero a modo de resumen podemos decir que los contenidos principales del examen son: <br/>
+- Lectura de palabras <br/>
+- Trazos/componentes de kanjis <br/>
+- Sinónimos y antónimos de palabras <br/>
+- Composición de jukugos <br/>
 - Escritura de kanjis
 
 <div style="margin-top: 20px;width:full;display:flex;justify-content:center;" markdown="1">
