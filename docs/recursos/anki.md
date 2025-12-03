@@ -4,10 +4,6 @@ En esta página se recopilan los recursos que se pueden usar para Anki. Se irá 
 
 ## Consejos y guías
 
-- [Setup de minado para Anki](https://rentry.co/mining) Guía de como configurar el ordenador para minar palabras de forma cómoda.
-
-- [JP Lazy Guide](https://xelieu.github.io/jp-lazy-guide/) Otra guía de minado más actualizada y sencilla.
-
 - [¿Qué debería minar en Anki?](https://www.evernote.com/shard/s325/client/snv?noteGuid=e3853460-aa35-4d1e-85a5-bb41c70a6cf4&noteKey=256b354312f680a4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs325%2Fsh%2Fe3853460-aa35-4d1e-85a5-bb41c70a6cf4%2F256b354312f680a4&title=My%2B2%2Bcents%2Bon%2Bwhat%2Bto%2Banki%2B%28for%2Badvanced%2Blearners%29) Opinión en inglés de un estudiante de japonés sobre que tipo de palabras deberían minarse y cuáles no merece la pena.
 
 ## Decks de Anki
