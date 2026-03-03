@@ -9,7 +9,7 @@ Vas a usar esta web para practicar: [Repasa los kanas](https://renshuu.manabe.es
 Esta tabla es más sencilla porque son contracciones. Una vez nos las sepamos, paramos por hoy con los silabarios, o seguimos a por más si nos apetece. Da igual.
 
 ## Empieza la Inmersión
-El día 2 realmente es el día de **empezar a disfrutar de algo de contenido de japonés**. El método gira en torno a rodearte de japonés, así que vamos a escoger un anime facilito. Si no sabes por qué hay que empezar tan pronto a consumir contenido, te recomiendo encarecidamente ver mi vídeo de [NUNCA te enseñaron a APRENDER idiomas de verdad](https://www.youtube.com/watch?v=SQh4OmDdtRU). También el resto de vídeos que tengan que ver con la inmersión.
+El día 2 realmente es el día de **empezar a disfrutar de algo de contenido de japonés**. El método gira en torno a rodearte de japonés, así que vamos a escoger un anime facilito. Si no sabes por qué hay que empezar tan pronto a consumir contenido, te recomiendo encarecidamente ver mi vídeo de [Aprender Japonés No Es Tan Difícil (no, en serio)](https://youtu.be/q88_lE96lC4). También el resto de vídeos que tengan que ver con la inmersión.
 
 Si no te gustan los animes, deberás encontrar contenido que te guste en YouTube o en Netflix (tengo la certeza que hay cosas en japonés, pero igual tendrás que poner el menú en idioma japonés, y si lo que hay no te gusta, tendrás que usar una VPN para entrar en el Netflix japonés). Si quieres que te ayudemos con contenido que ver, simpre puedes preguntar en nuestro [servidor de discord](https://discord.gg/y8P7mpDTcB).
 
