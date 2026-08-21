@@ -42,6 +42,8 @@ Tenemos más recursos en nuestro [discord](https://discord.gg/y8P7mpDTcB) ¡pás
   
 - [Cure Dolly Script](https://kellenok.github.io/cure-script/) Transcripción a texto de los vídeos de gramática de Cure Dolly en forma de página web con formato en markdown para facilitar su lectura y comprensión.
 
+- [Corpus de japonés](https://shonagon.ninjal.ac.jp) Corpus de japonés con muchísimas frases de ejemplo donde se puede buscar cualquier palabra, para utilizarlo dar click en el botón de abajo de la página y luego aceptar el popup.
+
 ## Diccionarios para Yomitan
 
 - [Jmdict Inglés](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_english.zip) Es el diccionario que recomendamos, es el más completo y está actualizado.
